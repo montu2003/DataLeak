@@ -1,0 +1,3 @@
+id,uri,timezone,synctoken,components,deleted_at,displayname,transparent,principaluri,description,calendarcolor,calendarorder
+1,contact_birthdays,NULL,1,VEVENT,NULL,Contact birthdays,0,principals/system/system,NULL,#E9D859,0
+

@@ -1,0 +1,86 @@
+id,house,photo,date,name,status,entryyear,fathername,appointment,cadetnumber,passingyear,currentaddress,currentposition
+2,zulfiqar ali bhutto house,001.jpg,29-08-2018,Allahyar,1,2010,Abdul Hameed Shar,N/A,2010-27,2015,Nawabshah Sindh Pakistan,Student
+5,haider house,mnawazsohu.JPG,12-09-2018,Muhammad Nawaz Sohu,1,2013,Haji Gul Bahar Sohu,N/A,2013-81,2018,dadu chowk near utility store moro,Doing LLB
+6,Qazi House,4 (2).jpeg,11-06-2018,Muhsin Khan,1,2012,Suhrab Khan,N/A,2012-16,2017,Near old meat market naudero,Student
+7,Tipu,28377534_1362146457263712_1018866834783149481_n.jpg,12-04-2019,Rashid Sahito,1,2009,Khamiso Khan,N/A,2009-112,2014,Karachi,IT Officer
+8,Ibn e Qasim,Ghous_Ali_converted.jpg,06-05-2019,Ghous Ali,1,2001,Muhammad Idrees,N/A,2001-07,2006,Muhalla Anwarabad Near Kalma Chowk Ghotki ,Data Processing Assistant
+9,ZAB House,Ameer bux bajeer.jpg,19-07-2019,Ameer Bux Bajeer,1,2017,Muhammad Soomar,N/A,2017-413,2019,Thar Autos Mithi,Preparation of TCC ISSB
+10,Latif House,0.jpg,07-10-2019,Ali Raza,1,2005,Muhammad Khan,N/A,2005-60,2010,Islamabad,Auditor
+11,Tipu,IMG-20191123-WA0012.jpg.jpg,25-11-2019,Shahzaib,1,2013,Muhammad Ayaz,N/A,2013-046,2018,DUET karachi,Petroleum and gas
+12,Effandi House,imgonline-com-ua-resize-uRTmSS1YBHh1Yk.jpg,01-06-2020,Zareen Gul Khan,1,2007,Insaf Ali Khan Pathan,N/A,2007-71,2012,"Mohalla Tando Shahbaz Khan Pathan,Ghotki",Student
+14,Iqbal,received_926069711079097.jpeg,11-06-2020,Nasir uddin,1,2015,Shafi Muhammad,03415799069,2015-131,2018,Po dakahan distt shikarpur sindh,-
+15,Iqbal,received_741254716310430.jpeg,13-06-2020,Nasir uddin,1,2015,Shafi Muhammad,03415799069,2015-131,2018,Po dakahan distt shikarpur sindh,-
+16,Allama I I Qazi,IMG_20200614_201136_compress52.jpg,14-06-2020,Aadil Yousif,1,2013,Muhammad yousif,03069324461,2013-112,2016,District dadu Radhan station ,Bs-English
+17,Tipu,FB_IMG_1592148407650_compress53.jpg,14-06-2020,Daniyal Yousif,1,2010,Muhammad yousif,03000210628,2010-121,2015,District dadu Radhan station ,Doctor
+18,Z A bhutto,FB_IMG_1592196473778.jpg,15-06-2020,Hasnain,1,2016,Khamees ali,03008235229,2016-036,2021,"District khairpur mirsl, Talika sobhodero",-
+19,Latif,IMG-20200512-WA0037.jpg,23-06-2020,Aijaz Ahmed,1,2012,Abdul Sattar,03443619651,2012-072,2017,taxi stand quetta road dera allah yar,Student
+20,Z A Bhutto,IMG-20200606-WA0001.jpg,04-07-2020,Muhammad Atif,1,2015,Altaf Hussain Chandio,03332692241,2015-244,2016,Qasimabad Hyderabad,Studying Bachelors In Engineering
+21,Mangi house ,default_profile.png,23-08-2020,Muhammad Azeem Mangi ,1,2020,Mujeeb Ahmed Mangi,03111340659,3-2-2003,2020,Shikarpur sindh,-
+22,Tipu,FB_IMG_1530212243113 - luqman panhwar.jpg,10-09-2020,Luqman,1,2011,Rehmat ali panhwar,03053168369,2011-130,2016,Karachi ,LLB from SZABUL Law University Karachi
+23,Shahbaz,ZEESHAN ALI K19CE46(0)-175x233.jpg,25-09-2020,Zeeshan Ali,1,2013,Qalandar bux Luhrani,03007488839,2013-128,2018,Kotdiji khairpur mirs,B.E civil engineering at Muet
+24,Iqbal House,IMG-20180114-WA0002.jpg,19-10-2020,Farooq Ahmed,1,1997,Riaz Ahmed,0333-4387676 ,9715,2002,Sialkot Cantt ,Major
+25,Shah Baharo House,IMG-20190615-WA0056.jpg,07-12-2020,Muhammad Ali Sario ,1,2014,Ali Hassan Sario ,03161991394,2014-171,2019,Al Qasmia patrol pump baghi bindi,Doing political science 
+26,Iqbal,20210215_211755(G8sH5IPpxgq) (1).jpg,15-02-2021,Fayazz Hussain,1,2012,Riaz Hussain Phulpoto,03362873047,2012-124,2014,Fayaz Manzil PO Naudero Larkana,Student
+27,Jinnah House,IMG_0035a.jpg,29-03-2021,Ghulam Hussain Chandio,1,2002,Fida Hussain ,0312-0874758,2002-60,2007,"Electronic  Engineering, QUEST, Larkana",Assistant Professor
+28, dari muhalla mula chowk,pic 2.jpeg,14-07-2021,sooraj raja,1,2009,Hola Ram,03467760786,2009-03,2012,Larkana,Medical officer
+29,Iqbal,akhoo.jpg,05-09-2021,Akhlaque  Ahmed,1,2007,Mohammad Amin Mangrio,03312645397,2007-120,2012,Khuhra Mohalla Naudero District Larkana,Advocate
+30,Jinnah and Hamza,145B2D23-16A6-4215-B263-E939899739C5.jpeg,15-10-2021,Shoaban Ali,1,2012,Muhammad Ali Memon,03003813366,2012-090,2017,Karachi,Law Student
+31,SHAHBAHARO,Snapchat-180353969.jpg,16-10-2021,MOHAMMAD USAMA,1,2015,Mohammad Shouaib Chhajro,03057771109,2015-120,2020,Village Chhajra near Kamber Shahdadkot,Learner
+32,Allama I I kazi,rsz_pic.jpg,16-10-2021,HUZAIFA NAEEM LAGHARI,1,2015,Muhammad Naeem,03004457700,2015-124,2020,Alyani town laghari house daharki,Student of Chartered Accountancy
+33,Tipu,IMG_20201114_182541.jpg,30-10-2021,Shah Fahad,1,2010,Abdul Razzaque,03021801697,2010-118,2015,Karachi,SITE Engineer CIVIL
+34,Z A Bhutto,20211030_163305.jpg,07-11-2021,Mudasar,1,2010,Fida Hussain Laghari,03153542939,2010-64,2015,"Professors Housing Colony, Larkana",Businessman
+36,Jinnah,FB_IMG_1638374195551.jpg,01-12-2021,Kashif Nawaz,1,2012,Ali Nawaz,03113703565,2012-13,2017,Sachal Goth Karachi,Civil Engineer
+37,Shahbaharo house,CB24FDC7-3450-4E5E-88D3-549DF854579E.jpeg,24-12-2021,Hasnain Buledi,1,2015,Javed Ahmed Buledi,03144771802,2015-277,2020,Larkana,Doing LLB From SZABUL law University karachi
+38,ZAB House,90776826_1148559808818102_5741979900152119296_n.jpg,23-04-2022,Aijaz Hussain,1,2014,Muhammad Sadiq,03052535955,2014-38,2019,"Village Ranipur , Khairpur Mirs Sindh",GC at Pak Army
+39,Hamza,Untitled design (56) (1).png,16-06-2022,Hafeez ur Rehman,1,2019,Anees Ahmed Hajano,03328319300,2019-240,2022,Shikarpur City ,Freelancer
+40,Tipu House,DBDE0128-D941-4444-B7FC-E062ED7448DA.jpeg,28-07-2022,Suhail Ahmed,1,2005,Muhammad Mithal Shaikh ,0333745037,2005-81,2010,Karachi ,Assistant Manager 
+41,Hamza,56148166-5B4B-4856-8FEE-7C8E40C069C5.jpeg,14-08-2022,Faisal Karim,1,2015,Abdul karim ,03350268455,2015-302,2020,Khuzdar Baluchistan ,Bs History 
+42,Jinnah House,WhatsApp Image 2022-01-04 at 11.34.24 PM.jpeg,22-10-2022,Deen Muhammad,1,2015,Aftab Ali,03117767123,2015-236,2020,karachi,studying at iqra university Karachi 
+43,allama i i kazi ,cdt123.jpg,28-10-2022,muhammad ghulam abbas,1,2017,ali asghar,03343020672-03267089288,2017-012,2022,karachi,applicant for 151 long cource
+44,Latif house ,Aamir_1.jpg,21-11-2022,Aamir Ali ,1,2012,Ali Gohar baber ,03080030951 ,2012-114,2017,Jamshoro ,Studying 
+45,Tipu,WhatsApp Image 2022-12-10 at 9.48.31 AM (2).jpeg,10-12-2022,Noraiz Akhtar,1,2016,Akhtar Ali,03039855253,2016-111,2021,Sukkur,BE-Electrical Engineering at Sukkur IBA
+46,Shahbaharo,FB_IMG_1646110199939~2.jpg,24-12-2022,Rehan khan,1,2019,Asadullah,03003413440,1971,2022,Hamullah muhallah warah,Warah
+47,Shahbaharo,FB_IMG_1646110199939~2.jpg,24-12-2022,Rehan khan,1,2019,Asadullah,03003413440,1971,2022,Hamullah muhallah warah,Warah
+48,Shahbaharo,FB_IMG_1646110199939~2.jpg,24-12-2022,Rehan khan,1,2019,Asadullah,03003413440,1971,2022,Hamullah muhallah warah,Warah
+51,Muhammad Bin Qasim,Kamran Gul. Pic_11zon (1).jpg,12-01-2023,Kamran Gul Hassan,1,2013,Gul Hassan,03343420783,2013-49,2016,"REDC, LUMS Lahore Pakistan",Programme Officer
+52,MUHAMMAD BIN QASIM HOUSE,43203-2530639-3_1_50.jpg,22-03-2023,HAMEER HASHIM SHAIKH,1,2010,MUHAMMAD HASHIM SHAIKH,03493193121,2010-43,2014,"Gulshan e Hadeed, Karachi ",Engineer 
+53,mukhtiar hussain housse,FB_IMG_1634453480438.jpg,11-04-2023,Moazam Mukhtiar,1,2016,Mukhtiar Hussain,03231337511,18052007,2022,padidan town,student
+54,Shahbaz,IMG-20230101-WA0001_11zon.jpg,29-04-2023,Mohammad Muqeem ,1,2014,Mohammad Ibrahim ,03433580019,2014-109,2019,E Sector Islamabad ,Law Student 
+55,Effandi,IMG-20230429-WA0013_11zon.jpg,29-04-2023,Muhammad Ibrahim ,1,2014,Manthar Ahmed ,03080003335,2014-20,2019,F Sector Islamabad ,MBA Student 
+56,Pirwassan,20230601_135915.jpg,01-06-2023,Fahad Ali,1,2023,Shoukat Ali,03462793660,2-10-2007,2023,Pirwassan,Village Muhammad Dino Shar 
+59,Qasim House,Kamran Gul. Pic_11zon (1).jpg,05-06-2023,Kamran Gul Hassan,1,2013,Gul Hassan,03343420783,2013-49,2016,"REDC Department, LUMS, DHA Phase five, Lahore",Conference Planner at LUMS University Lahore
+60,Jinnah ,IMG-20200820-WA0009.jpg,10-07-2023,Hasnain Ali,1,2011,Dr Amir Ahmed Memon,0308-3589535,2011-009,2016,Jail Road Lahore ,Researcher
+61,Shah Baharo,IMG_20230427_235853-removebg-preview-removebg-preview-min.jpg,01-08-2023,Ammar Naeem Laghari ,1,2015,Muhammad Naeem ,03006654400,2015-0125,2020,Near albadar mosque Alyani town jung road daharki ,Doing BS-CS in computer science from NUCES FAST 
+62,ZA Bhutto,IMG-20190516-WA0002.jpg,12-11-2023,Asif Ali Abro,1,1993,Ali Gohar Abro,03332225546,9350,1999,Turbat,Army officer
+63,Shah baharo ,676BBB62-6A50-4FC6-85ED-AEA77205C05F.jpg,05-01-2024,Amad Ali,1,2014,Liaquat Ali,03049171477,2014-175,2017,University of karachi,Student of BA LLB
+64,Qasim House,1550226335948.jpg,20-01-2024,Abid Ali,1,2011,Hafiz Ahmed Bux,03313297233,2011-67,2014,Karachi,Software Enginner 
+68,Jinnah,white Background_1.jpg,29-03-2024,Kashif Nawaz ,1,2012,Ali Nawaz,03113703565,2012-13,2017,"Sachal Goth, Karachi ",Civil Engineer
+69,Jinnah ,rsz_1img_20240525_153914.jpg,01-06-2024,Shahbaz khan ,1,1999,Hamadullah narejo,03228929008,99104,2004,city courts ,Advocate 
+71,dasd,log.gif,06-08-2024,dsadas,0,2011,dasdsad,03415799069,2007-71,2012,dasdasdas,dasdsad
+73,dasd,xx.png,14-08-2024,dsdsa,0,2011,dasd,03415799069,2007-71,2012,dasd asdas,dasd sad
+74,dasd,xx.jpg,14-08-2024,dsdsa,0,2011,dasd,03415799069,2007-71,2012,dasd asdas,dasd sad
+75,dasd asdasd,xx.jpg,14-08-2024,dsdadasd dsa,0,2011,da sd,03415799069,2007-72,2012,dasd asadas,dasd saad
+76,dsfsdfsd sdfsdfdfs,1478987b34814ba6a9862bb3cd9470e8 (1).png,26-08-2024,sdfsdfgdsfg sdfgsdfgd,0,2019,sdfsdf,03003454344,8568598,2023,dfsdfdsf,sdfsdf
+77,Z A Bhutto,CompressJPEG.online_30kb_36039.jpg,25-09-2024,Moazim Ali Junaid ,0,1999,Muhammad Ali,03003122959,9926,2004,PAF Base Shahbaz Jacobabad,Senior Auditor
+78,Jinnah House,Alpha.jpg,20-10-2024,Ali Mujtaba,0,2014,Ajmeer Ali,03000034559,2014-89,2019,Mangla Cantonment,Officer in Pak Army 
+79,Haider,1000336456.jpg,27-02-2025,Abdul Samad,0,2018,Abdul Hafeez,03106683009,2018-36,2022,Karachi ,Student at ACCA
+80,aaaa,1.jpg,26-04-2025,abc,0,2024,abc,9876543210,20241111,2023,eadaa,heada
+81,aaaa,1.php.jpg,26-04-2025,abc,0,2024,abc,9876543210,20241111,2023,eadaa,heada
+82,aaaa,1..php.jpg,26-04-2025,abc,0,2024,abc,9876543210,20241111,2023,eadaa,heada
+83,rawalpindi,shhhh.jpg,09-05-2025,ali khan,0,2018,suban khan,9876543210,1990-2012,2023,rawalpind ipakistan,DSSM cadt
+84,hsihioashrdwa,simple-backdoor.php.jpg,09-05-2025,amar,0,2019,abdullah,98765432100,2020-9874,2024,ttatsdas,testtt
+85,hsihioashrdwa,simple-backdoor.php.jpg,09-05-2025,amar,0,2019,abdullah,98765432100,2020-9874,2024,ttatsdas,testtt
+86,rawalpindi,shhhh.jpg,09-05-2025,ali khan,0,2018,suban khan,9876543210,1990-2012,2023,rawalpind ipakistan,gentlecadet
+87,rawalpindi,shhhh.jpg,09-05-2025,ali khan,0,2018,suban khan,9876543210,1990-2012,2023,rawalpind ipakistan,gentlecadet
+88,efwefwe efwf ef f,henry.jpg,09-05-2025,henry class,0,2002,henry kfkff,923025854574,2222-2222,2003,hacker boy pindi street,hacker boy
+89,asdas,demo.png,09-05-2025,fthyfgh,0,2023,dftrh,2584563,2025-2020,2022,asd,asdas
+90,sdfsd,demo.png,09-05-2025,sdfdsf,0,2023,sdfds,85235285,2025-2020,2022,sdfds,sdfdsf
+91,sdfsd,demo.png,09-05-2025,sdfdsf,0,2023,sdfds,85235285,2025-2020,2022,sdfds,sdfdsf
+92,sasd,demo.png,09-05-2025,asdf,0,2022,sdfsd,98534647987,2025-2020,2020,dsfds,erter
+93,sasd,demo.png,10-05-2025,asdf,0,2022,sdfsd,98534647987,2025-2020,2020,dsfds,erter
+94,sasd,demo.php\x00.jpg,10-05-2025,data,0,2022,sdfsd,98534647987,2025-2020,2020,dsfds,erter
+95,Larkana,demo.php\x00.jpg,10-05-2025,test,0,2019,test,98765432100,2025-001,2021,tsastfdusa,testtt
+96,Larkana,test.php.jpg,10-05-2025,test,0,2019,test,98765432100,2025-001,2021,tsastfdusa,testtt
+97,Larkana,test.jpg,10-05-2025,test,0,2019,test,98765432100,2025-001,2021,tsastfdusa,testtt
+98,SDRFSD,Untitled.jpeg,10-05-2025,abCD,0,2025,ABCD,2587965,2025-010,2025,SDFSD,SDFSDF
+

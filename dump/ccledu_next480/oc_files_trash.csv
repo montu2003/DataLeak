@@ -1,0 +1,6 @@
+id,auto_id,mime,type,user,location,deleted_by,timestamp
+New whiteboard.whiteboard,1,NULL,NULL,admin,.,admin,1730638550
+New spreadsheet.ods,2,NULL,NULL,admin,.,admin,1730638550
+New presentation.odp,3,NULL,NULL,admin,.,admin,1730638550
+New document.odt,4,NULL,NULL,admin,.,admin,1730638550
+

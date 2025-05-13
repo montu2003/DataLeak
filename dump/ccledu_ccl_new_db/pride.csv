@@ -1,0 +1,85 @@
+id,name,rank,course,armyunit,category
+1,Mudassir Javed,2/Lt, 100 LC,Inf /48 FF ,PG
+3,Shahid Ali Janwari,2/Lt ,102 LC ,Inf /12 AK/CMI ,PG
+4,Shaid Ali Abbasi,2/Lt , 102 LC,Inf /32 FF/Avn ,PG
+5,Capt (R) Altaf Hussain Sario ,2/Lt ,36 CTP ,Inf /Ak ,PG
+6,Sauqib Iqbal,2/Lt , 103 LC,AC /11 C ,PG
+7,Saifullah Khan,2/Lt ,103 LC ,Inf /CMI ,PG
+8,Fayaz Khan Chandio,2/Lt ,103 LC , AD /5 Lt,PG
+9,Altaf Sario,2/Lt ,103 LC ,Inf /3 AK ,PG
+10,Farhaj,2/Lt , 104 LC,N.A/ Avn ,PG
+11,Aziz Baloch,2/Lt ,104 LC ,Inf /1 AK ,PG
+12,Mustafa Siddiqui,2/Lt ,104 LC ,N.A /Avn ,PG
+13,Ishtiaq Usman,2/Lt ,TCC N.A ,Sigs ,PG
+14,Raja Zahid,2/Lt , 104 LC, Inf /23 AK,PG
+15,Zeeshan Mughal,2/Lt ,104 LC , Arty,PG
+16,Abdul Khaliq Shaikh,2/Lt , 104 LC, ASC,PG
+17,Irshad Ali Bhutto,2/Lt ,105 LC ,ASC ,PG
+18,Shahid Ali Bosan,2/Lt ,105 LC , Inf /11 Sind,PG
+19,Jahanzeb Khoso,2/Lt ,105 LC ,ASC ,PG
+20,Muhammad Rafiq Morio,2/Lt ,105 LC ,ASC ,PG
+21,"Mujahid Ali Mirani, SJ",2/Lt , 105 LC,Inf /7 AK ,PG
+22,Taimoor Khurshid,2/Lt ,105 LC ,AD /97 ,PG
+23,Amjad Ali Abro,2/Lt ,105 LC ,Arty /?,PG
+24,Asif Ali Abro,2/Lt ,105 LC ,Inf /46 FF,PG
+25,Muhammad Yasin Sangi ,2/Lt ,105 LC ,Ord ,PG
+26,Zulfiqar Mangi,2/Lt ,105 LC ,Inf /27 Sind/CMI,PG
+27,Khurram Rizwan,2/Lt ,105 LC ,Inf /2 Sind/Avn ,PG
+28,Mumtaz Mangi,2/Lt ,107 LC ,Arty ,PG
+29,Ashfaque Ahmed Abro ,2/Lt ,107 LC ,Inf /14 Sind ,PG
+30,"Jaleel Abbas, Tbt ",2/Lt ,107 LC ,Arty /86 Fd ,PG
+31,Muhammad Tariq,2/Lt ,107 LC ,Inf /30 PR ,PG
+32,Aman Ali,2/Lt ,106 LC ,Inf /31 AK ,PG
+33,Mustafa,2/Lt ,<blank>,<blank>,PG
+34,Sikander leghari,2/Lt ,106 LC ,AD /74 Lt AD ,PG
+35,Yasir Khan Niazi,2/Lt ,106 LC ,Inf /57 PR ,PG
+36,Ayaz Ali Khunhawar,2/Lt ,106 LC ,AD/?/CMI ,PG
+37,Mubashir Rafiq,2/Lt ,107 LC ,AD /127 Med ,PG
+38,Khurrum Siddiqui,2/Lt ,107 LC ,Arty /174 Med ,PG
+39,Saif-u-Rehman,2/Lt ,"DD, Sukkur ",Ministry of Defence ,PG
+40,Wasif,2/Lt ,37 IC ,AMC ,PG
+41,Tanvir Ahmed,2/Lt ,39 IC ,AMC ,PG
+42,Awais Ahmed,2/Lt ,108 LC ,Arty /63 Med ,PG
+43,Abdul Rauf Khan,2/Lt ,NULL,Pakistan Army ,PG
+44,Ayatullah Roohullah Khomeni ,2/Lt ,36 IC ,AMC ,PG
+45,Adil Parvez Shaikh,2/Lt ,110 LC ,AD /6 Lt ,PG
+46,Ghulam Nabi Abbassi,2/Lt ,110 LC ,Ord ,PG
+47,Farooq Abro,2/Lt ,?/76 Fd ,Arty ,PG
+48,Kamran Chandio ,2/Lt ,DE-8 ,Int ,PG
+49,Altaf Khaskheli,2/Lt ,112 LC ,Inf /32 BR ,PG
+50,Ameer Anwar Rind,2/Lt ,113 LC ,Inf /34 AK ,PG
+51,Zaheer Anwar Rind,2/Lt ,113 LC ,Inf /35 BR ,PG
+52,Muhammad Naveed,2/Lt ,115 LC ,Inf /31 AK/Avn ,PG
+53,Shakil Dahari,2/Lt ,115 LC ,Inf /15 Sind/Avn ,PG
+54, Avais Mahmood,2/Lt ,116 LC ,AD /126 Lt AD ,PG
+55,Sohail Lashari,2/Lt ,119 LC ,Arty /57 Med ,PG
+56,Abdul Ghani,2/Lt ,118 LC ,AD ,PG
+57,Karamullah Gishkori,2/Lt ,<blank>,<blank>,PG
+58,Fahad Ali Soomro,2/Lt ,118 LC ,Arty /11 Med ,PG
+59,Ahsan Ali Siddiqui,2/Lt ,119 LC ,Sig /2 Sig ,PG
+60,Irfan Ali Rajput,2/Lt ,119 LC ,Inf /29 Sind ,PG
+61,Shakeel Asghar,2/Lt ,<blank>,<blank>,PG
+62,Rana Muhammad Ali,2/Lt ,<blank>,<blank>,PG
+63,Ajeebullah,Midshipman,2000-A,Supply Br,PA
+64,Tahir Jibran Khan,Midshipman,2001-A,Ops,PA
+65,Abid Ali Shaikh,Midshipman,2001-A ,Supply Br,PA
+66,Yasir Mushtaq,Midshipman,2003-B,Ops,PA
+67,Imran Ali Shaikh,Midshipman,2004-A,Ops,PA
+68,Irfan Khan Niazi,Midshipman,2006-B,Engrs,PA
+69,Abdul Hameed Mahar,Midshipman,2009-A,Ops,PA
+70,Hussain Ahmed,Midshipman,2010-A,Marine Engg,PA
+71,Zulfiqar Surhani,Midshipman,2010-A,Ops,PA
+72,Umair Zulfiqar,Midshipman,2012-A,Ops,PA
+73,Hassan Siddiqui,Midshipman,2012-B,Ops,PA
+74,Mehran Surhani,P.O,116 GDP ,GDP,PACM
+75,Manzoor Ahmed Mahar,P.O,62 CAE ,Engr ,PACM
+76,Naveed Soomro,P.O,121 GDP ,GDP ,PACM
+77,Shoukat,P.O,76 AD ,AD ,PACM
+78,Rizwan,P.O,76 AD ,AD ,PACM
+79,Jam Hamza Nawaz,P.O,124 GDP ,GDP ,PACM
+80,Ahmed Haroon,P.O,83 AD ,AD ,PACM
+81,Mehboob Ali,P.O,90 AD ,AD ,PACM
+82,Farhan Shaikh,P.O,91 AD ,AD ,PACM
+83,Feroz,P.O,94 AD ,AD ,PACM
+84,Rao Azib Yusuf,P.O,<blank>,GDP ,PACM
+

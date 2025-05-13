@@ -1,0 +1,4 @@
+uid,password,uid_lower,displayname
+admin,"3|$argon2id$v=19$m=65536,t=4,p=1$SFd3OE9GQWd5b1RKa0ZmQg$pw3GMF8YjGUVnqfdRmvSTFDtqszfTpEapxe3cs0ZYxY",admin,NULL
+physics.mudassir,"3|$argon2id$v=19$m=65536,t=4,p=1$UjA0VUVVUXB3YzEzUi5nOA$fQ09bXPN8y9MhWJeUBreU7aoSBNCKqzN6YhP/685ui0",physics.mudassir,Muhammad Mudasdir
+

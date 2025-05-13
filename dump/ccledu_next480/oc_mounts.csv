@@ -1,0 +1,5 @@
+id,root_id,user_id,mount_id,storage_id,mount_point,mount_provider_class
+1,1,admin,NULL,1,/admin/,OC\\Files\\Mount\\LocalHomeMountProvider
+2,5,admin,NULL,1,/admin/,OC\\Files\\Mount\\LocalHomeMountProvider
+3,940,physics.mudassir,NULL,3,/physics.mudassir/,OC\\Files\\Mount\\LocalHomeMountProvider
+

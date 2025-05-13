@@ -1,0 +1,3 @@
+id,uri,synctoken,displayname,principaluri,description
+1,system,5,system,principals/system/system,System addressbook which holds all users of this instance
+

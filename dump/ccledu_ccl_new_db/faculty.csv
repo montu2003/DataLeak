@@ -1,0 +1,91 @@
+id,ext,email,photo,name,is_hod,sequence,department,designation
+1,222,moosa.abbasi@ccl.edu.pk,ProMMoosaAbbas.jpg,Mr. Muhammad Moosa Abbasi,Y,0,English,Associate Professor (H.O.D)
+2,206,vp.academics@ccl.edu.pk,oladbhellar.jpg,Mr. Olad Ali Bhellar,Y,1,VP,A/ Vice Principal (Academics)
+4,227,mujeeb.samo@ccl.edu.pk,mujeebsamo.jpg,Mr. Mujeeb Ali Samo,N,3,English,Assistant Professor
+5,227,zulfiqar.soomro@ccl.edu.pk,zasoomro.JPG,Mr. Zulfiqar Ali Soomro,N,4,English,Assistant Professor
+6,227,sajjad.cheehani@ccl.edu.pk,sajadcheehani.jpg,Mr. Sajjad Hussain Cheehani,N,5,English,Assistant Professor
+8,227,abdul.hafeez@ccl.edu.pk,abdulhafeez.jpg,Mr. Abdul Hafeez,N,7,English,Lecturer
+13,220,muhammad.imran@ccl.edu.pk,sirimranshaikh2.JPG,Mr. Muhammad Imran Shaikh,Y,1,Biology,Assistant Professor (H.O.D)
+14,227,waseem.abbas@ccl.edu.pk,123Waseem.jpg,Mr. Waseem Abbas,N,2,Biology,Lecturer
+15,227,mujeebullah@ccl.edu.pk,ProfMujeebullah.JPG,Mr. Mujeebullah Abro,N,3,Biology,Lecturer
+16,227,imran.solangi@ccl.edu.pk,imranalisolangi.jpg,Mr. Imran Ali Solangi,N,4,Biology,Lecturer
+17,224,olad.ali@ccl.edu.pk,oladbhellar.jpg,Mr. Olad Ali Bhellar,Y,1,Mathematics,Associate Professor (H.O.D)
+18,227,noor.muhammad@ccl.edu.pk,Noor Muhammad new.JPG,Mr. Noor Muhammad Tunio,N,2,Mathematics,Associate Professor
+19,227,qurban.khuhawar@ccl.edu.pk,AssociateProfessorQAK.JPG,Mr. Qurban Ali Khuhawar,Y,1,cs,Associate Professor (H.O.D)
+20,227,zaib.ghaloo@ccl.edu.pk,zaibhussain.jpg,Mr. Zaib Hussain Ghaloo,N,3,Mathematics,Assistant Professor
+21,227,sarfaraz.amur@ccl.edu.pk,sarfarazamur.jpg,Mr. Sarfaraz Ali Amur,N,4,Mathematics,Assistant Professor
+22,227,muneer.khoso@ccl.edu.pk,muneerkhoso.jpg,Mr. Muneer ul Hassan Khoso,N,5,Mathematics,Assistant Professor
+23,227,aftab.ahmed@ccl.edu.pk,AftabAliWassan.JPG,Mr. Aftab Ali Wassan,N,6,Mathematics,Lecturer
+25,227,abdul.khaliq@ccl.edu.pk,AbdulKhaliqueKachelo.JPG,Mr. Abdul Khalique Kachhelo,Y,1,Physics,Assistant Professor (H.O.D)
+26,227,babar.solangi@ccl.edu.pk,babar final.jpg,Mr. Babar Ali Solangi,N,2,Physics,Lecturer
+27,227,ahmed.raza@ccl.edu.pk,IMG-20230216-WA0015.jpg,Mr. Ahmed Raza,N,3,Physics,Lecturer
+30,227,taair.radhan@ccl.edu,taair hussain radhan.jpg,Mr. Taair Hussain Radhan,Y,1,ps,Assistant Professor (H.O.D)
+31,227,kashif.phull@ccl.edu.pk,sirkashifphull.JPG,Mr. Kashif Phull,N,2,ps,Assistant Professor
+32,227,luqman.khuharoo@ccl.edu.pk,luqmankhooharo.jpg,Mr. Luqman Khooharo,N,3,ps,Lecturer
+35,227,jameel.ahmed@ccl.edu.pk,JameelAhmedKhaskheliPhoto.JPG,Mr. Jameel Ahmed Khaskheli,Y,1,Sindhi,Associate Professor (HOD)
+37,227,muntazir.hussain@ccl.edu.pk,MuntazirHussain.jpg,Mr. Muntazir Hussain,N,3,Sindhi,Lecturer
+38,227,mazhar.shah@ccl.edu.pk,MazharShah.jpg,Mr. Syed Mazhar Shah,N,4,Sindhi,Lecturer
+39,223,a.wahab@ccl.edu.pk,Sir Wahab - 2.jpg,Prof. Dr. Abdul Wahab Mangrio,Y,1,Islamiat,Associate Professor (Head of Department)
+40,215,mansoor.samejo@ccl.edu.pk,mansoorali.jpg,Mr. Mansoor Ali Samejo,N,2,Islamiat,Assistant Professor
+41,215,abdul.qudoos@ccl.edu.pk,abdulqudoos.jpg,Mr. Abdul Qudoos Mangrio,N,3,Islamiat,Lecturer
+43,227,akram.magsi@ccl.edu.pk,muhammadakram.jpg,Mr. Muhammad Akram Magsi,Y,1,Urdu,Assistant Professor (H.O.D)
+44,227,muhammad.ali@ccl.edu.pk,muhammadali.jpg,Mr. Muhammad Ali,N,2,Urdu,Lecturer
+45,227,imtiaz.qaimkhani@ccl.edu.pk,ImtiazAliQaim Khani.jpg,Mr. Imtiaz Ali Qaimkhani,N,3,Urdu,Lecturer
+46,227,syed.adnan@ccl.edu.pk,SirAdnanJafferi.jpg,Mr. Syed Adnan Ahmed,N,4,Urdu,Lecturer
+47,227,zafar.iqbal@ccl.edu.pk,zafariqbal.jpg,Mr. Muhammad Zafar Iqbal,Y,1,Fine Arts,Assistant Professor
+48,210,adjutant@ccl.edu.pk,download.jpg,Captain Muhammad Mustaneer Habib,Y,1,MT,Adjutant
+50,209,admin.officer@ccl.edu.pk,SirJavedShb.jpg,Mr. Javed Ahmed Lashari,Y,1,Admin,Administrative Officer
+51,N/A,N/A,LiaqatSiyal.jpg,Mr. Liaquat Ali Siyal,N,2,Admin,Garden Superintendent
+52,214,N/A,shahmeerkhan.JPG,Mr. Shahmeer Khan,N,3,Admin,Office Superintendent
+53,239,N/A,ShamsuddinStoreKeeper.JPG,Mr. Shams Kalhoro,N,4,Admin,Store Keeper
+54,N/A,N/A,AmjadAli.jpg,Mr. Amjad Ali,N,5,Admin,Caretaker
+55,N/A,N/A,AbdulRazaq.jpg,Mr. Abdul Razaque Hulio,N,6,Admin,Assistant Caretaker
+56,N/A,N/A,AyazAliShaikh.JPG,Mr. Ayaz Ali Shaikh,N,8,Admin,Lower Division Clerk
+57,N/A,N/A,AshfaqJunejo.jpg,Mr. Ashfaque Ali Junejo,N,8,Admin,Lower Division Clerk
+58,203,N/A,ZubairAhmedSoomro.JPG,Mr. Zubair Ahmed Soomro,N,9,Admin,A/ P.A to Principal / LDC
+59,208,bursar@ccl.edu.pk,Sir Bursar.jpg,Mr. Muhammad Hafeez Shaikh,Y,1,Accounts,Bursar
+60,215,N/A,AbdulShakoorAcc.jpg,Mr. Abdul Shakoor Soomro,N,2,Accounts,Accountant
+61,N/A,N/A,WaqarChanna.jpg,Mr. Waqar Channa,N,3,Accounts,Sr. Accounts Clerk
+63,N/A,N/A,MasoodAhmed.jpg,Mr. Masood Ali Lashari,N,5,Accounts,Cashier
+64,207,engineer@ccl.edu.pk,imtiazali.jpg,Mr. Imtiaz Ali Solangi,Y,1,Engineering,Engineer
+65,N/A,N/A,Noushad.jpg,Mr. Naushad Larik,N,2,Engineering,Sub - Engineer (Civil)
+66,N/A,N/A,Hakim.JPG,Mr. Hakim Ali Tunio,N,4,Engineering,Upper Division Clerk
+67,211,a.wahab@ccl.edu.pk,Sir Wahab.jpg,Prof. Dr. Abdul Wahab Mangrio,Y,1,Examination,Controller of Examinations
+70,213,ali.rashid@ccl.edu.pk,ITSpecialistR.jpg,Mr. Rashid Ali Areejo,Y,1,ICT,I.T Specialist
+73,NA,jameel.ahmed@ccl.edu.pk,JameelAhmedKhaskheliPhoto2.jfif,Mr. Jameel Ahmed Khaskheli,Y,1,Mess,OIC Cadet Mess
+74,N/A,N/A,Habeeb.JPG,Mr. Habib-u-Rehman Khooharo,Y,2,Mess,Mess Manager
+77,237,psychologist@ccl.edu.pk,images (5).png,Ms. Noureen Khan,Y,1,Psychologist,Psychologist
+78,N/A,N/A,AhmedAli.JPG,Mr. Ahmed Ali Bhatti,N,2,Medical,Dispenser
+79,N/A,N/A,AliGul.jpg,Mr. Ali Gul Solangi,N,3,Medical,Dresser
+81,216,librarian@ccl.edu.pk,sirkashifphull2.jfif,Mr. Kashif Phull,Y,1,Library,A/Librarian
+82,N/A,N/A,Arfat.JPG,Mr. Arfat Hussain Samo,N,2,Library,Cataloguer
+84,N/A,N/A,KashifMemon.jpg,Mr. Kashif Ali Memon,N,3,Library,Library Assistant
+85,221,zulfiqar.shar@ccl.edu.pk,zashar.jpg,Mr. Zulfiqar Ali Shar,Y,1,Chemistry,Associate Professor (H.O.D)
+89,227,ghulam.ali@ccl.edu.pk,Ghulam Ali Mugheri.jpg,Mr. Ghulam Ali Mugheri,N,5,Chemistry,Lecturer
+92,N/A,<blank>,YasirAliChandio.jpg,Mr. Yasir Ali Chandio,N,3,Engineering,Sub-Engineer (Electric)
+93,N/A,N/A,IMG-20250416-WA0004.jpg,Mr. Arslan Hyder,N,20,Accounts,Lower Division Clerk
+95,N/A,nasirabbasmangrio@gmail.com,download.png,Mr. Nasir Abbas,N,8,Mathematics,Lecturer
+97,227,naveed.hussain@ccl.edu.pk,mrnaveedhussainLec.jpg,Mr. Naveed Hussain,N,8,English,Lecturer
+98,227,abdullah.mangi@ccl.edu.pk,abdullahmangiChemistry.JPG,Mr. Abdullah Mangi,N,6,Chemistry,Lecturer
+100,N/A,hasnain.bhatti@ccl.edu.pk,hasnainCCTV.jpg,Mr. Hasnain Bhatti,N,4,ICT,CCTV Technician
+102,227,arman.ahmed@ccl.edu.pk,MrArmanAliJarwarNew.JPG,Mr. Arman Ahmed,N,1,English,Associate Professor
+105,074-4080091,N/A,sojhroo khan.jpg,Mr. Sojhro Khan Tunio,N,5,ICT,Senior Telephone Operator
+106,213,solangi4004@gmail.com,AliRazaSolangi.JPG,Mr. Ali Raza Solangi,N,2,ict,Web Master
+107,<blank>,<blank>,MureedSarganiPic.jpg,Mr. Mureed Hussain Sargani,N,7,Admin,Lower Division Clerk
+108,074-4080091,N/A,Abid.JPG,Mr. Abid Hussain Mirani,N,6,ict,Telephone Operator
+109,074-4080091,N/A,lalBuxBhutto.jpg,Mr. Lal Bux Bhutto,N,7,ict,Line-Man (Telephone)
+110,227,sadam.hussain@ccl.edu.pk,MrSadamHussainSolangi.jpg,Mr. Sadam Hussain Solangi,N,4,ps,Lecturer
+111,239,fa709788@gmail.com,faraz ahmed ldc.jpg,Mr. Faraz Ahmed,N,10,admin,Assistant Storekeeper
+112,235,NA,uzair.jpg,Mr. Uzair Rashdi,N,3,examination,LDC
+114,221,hadi.bakhsh,Hadi Bakhsh.JPG,Dr. Hadi Bakhsh,N,7,chemistry ,Lecturers in Chemistry 
+116,<blank>,abdul.sami@ccl.edu.pk,lecturerabdulsami.JPG,Mr. Abdul Sami,N,9,physics,Lecturer
+118,NA,saleh.gilal@ccl.edu.pk,Saleh_Gilal-removebg-preview.png,Mr. Muhammad Saleh,N,2,VP,A/ P.A to Vice Principal
+119,240,kamran.ahmed@ccl.edu.pk,karman2-removebg-preview.png,Mr. Kamran Ahmed,N,4,ICT,I.T Assistant
+120,227,sikandar.ali@ccl.edu.pk,sikandar.jpg,Mr. Sikandar Ali Mahar,N,9,English,Lecturer
+121,227,tulha.sikandar@ccl.edu.pk,IMG-20240905-WA0017.jpg,Mr. Tulha Sikandar Channa,N,10,English,Lecturer
+122,227,Raja.Haseeb@ccl.edu.pk,Raja.jpg,Mr. Raja Haseeb,N,11,English,Lecturer
+123,227,N/A,allah.jpg,Allah Rakhio,N,5,biology,Lecturer
+125,227,NA,Soomar.jpg,Mr. Muhammad Soomar,N,8,Mathematics,Lecturer
+126,235,NA,Saleem.jpg,Mr. Saleem,N,4,examination,LDC
+127,NA,<blank>,IMG-20250424-WA0028.jpg,Dr. Muhammad Shahabaz Ahmed,Y,1,medical,Residential Medical Officer (RMO)
+

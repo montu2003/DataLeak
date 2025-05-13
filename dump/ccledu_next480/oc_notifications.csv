@@ -1,0 +1,4 @@
+object_id,notification_id,app,icon,link,user,actions,message,subject,timestamp,object_type,message_parameters,subject_parameters
+30.0.2.2,8,updatenotification,<blank>,<blank>,admin,[],<blank>,update_available,1731420491,core,[],"{""version"":""Nextcloud 30.0.2""}"
+24.4.902,9,updatenotification,<blank>,<blank>,admin,[],<blank>,update_available,1731420496,richdocumentscode,[],[]
+

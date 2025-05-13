@@ -1,0 +1,26 @@
+user_id,umeta_id,meta_key,meta_value
+1,1,nickname,admin
+1,2,first_name,<blank>
+1,3,last_name,<blank>
+1,4,description,<blank>
+1,5,rich_editing,true
+1,6,syntax_highlighting,true
+1,7,comment_shortcuts,false
+1,8,admin_color,fresh
+1,9,use_ssl,0
+1,10,show_admin_bar_front,true
+1,11,locale,<blank>
+1,12,wp3w_capabilities,"a:1:{s:13:""administrator"";b:1;}"
+1,13,wp3w_user_level,10
+1,14,dismissed_wp_pointers,<blank>
+1,15,show_welcome_panel,1
+1,16,session_tokens,"a:2:{s:64:""bd68dfdefcebe9d9a51f4a53b6ab1bd02997183deb9af44a504eebc98c023d89"";a:4:{s:10:""expiration"";i:1746075444;s:2:""ip"";s:15:""221.120.201.148"";s:2:""ua"";s:111:""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"";s:5:""login"";i:1745902644;}s:64:""ebc7535052bf6079e0aecc25d3ee906cb608b3fdd0cf8d8e20d55dd67bbba900"";a:4:{s:10:""expiration"";i:1746166988;s:2:""ip"";s:15:""221.120.201.148"";s:2:""ua"";s:111:""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"";s:5:""login"";i:1745994188;}}"
+1,17,wp3w_dashboard_quick_press_last_post_id,5
+1,18,community-events-location,"a:1:{s:2:""ip"";s:13:""221.120.201.0"";}"
+1,24,wp3w_persisted_preferences,"a:3:{s:4:""core"";a:1:{s:26:""isComplementaryAreaVisible"";b:0;}s:14:""core/edit-post"";a:1:{s:12:""welcomeGuide"";b:0;}s:9:""_modified"";s:24:""2025-05-01T06:23:59.201Z"";}"
+1,19,nav_menu_recently_edited,2
+1,20,managenav-menuscolumnshidden,"a:5:{i:0;s:11:""link-target"";i:1;s:11:""css-classes"";i:2;s:3:""xfn"";i:3;s:11:""description"";i:4;s:15:""title-attribute"";}"
+1,21,metaboxhidden_nav-menus,"a:2:{i:0;s:32:""add-post-type-pagelayer-template"";i:1;s:12:""add-post_tag"";}"
+1,22,wp3w_user-settings,libraryContent=browse
+1,23,wp3w_user-settings-time,1745646331
+

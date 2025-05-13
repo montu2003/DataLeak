@@ -1,0 +1,707 @@
+a:2:{s:8:"backuply";a:35:{s:4:"name";s:51:"Backuply – Backup, Restore, Migrate and Clone";s:4:"slug";s:8:"backuply";s:7:"version";s:5:"1.4.4";s:6:"author";s:69:"<a href="https://profiles.wordpress.org/softaculous/">softaculous</a>";s:14:"author_profile";s:43:"https://profiles.wordpress.org/softaculous/";s:12:"contributors";a:2:{s:11:"softaculous";a:3:{s:7:"profile";s:43:"https://profiles.wordpress.org/softaculous/";s:6:"avatar";s:120:"https://secure.gravatar.com/avatar/d5f508eb226ae8cade7ed9f0f0cda7115f419afe760e0b64af278ed042b47c1f?s=96&d=monsterid&r=g";s:12:"display_name";s:11:"softaculous";}s:8:"backuply";a:3:{s:7:"profile";s:40:"https://profiles.wordpress.org/backuply/";s:6:"avatar";s:120:"https://secure.gravatar.com/avatar/eb4cb4dfe7bc9494507a2402850a581a6e86ca572dfda5bce7e97161602e0dd9?s=96&d=monsterid&r=g";s:12:"display_name";s:8:"Backuply";}}s:8:"requires";s:3:"4.7";s:6:"tested";s:5:"6.7.2";s:12:"requires_php";s:3:"5.5";s:16:"requires_plugins";a:0:{}s:6:"rating";i:92;s:7:"ratings";a:5:{i:5;i:98;i:4;i:2;i:3;i:0;i:2;i:3;i:1;i:8;}s:11:"num_ratings";i:111;s:11:"support_url";s:46:"https://wordpress.org/support/plugin/backuply/";s:15:"support_threads";i:0;s:24:"support_threads_resolved";i:0;s:15:"active_installs";i:400000;s:12:"last_updated";s:21:"2025-04-07 2:21pm GMT";s:5:"added";s:10:"2022-07-22";s:8:"homepage";s:38:"http://wordpress.org/plugins/backuply/";s:8:"sections";a:5:{s:11:"description";s:5542:"<p>Backuply is a WordPress backup plugin that helps you backup your WordPress website, saving you from loss of data because of server crashes, hacks, dodgy updates, or bad plugins.</p>
+<p>Backuply comes with Local Backups and Secure Cloud backups with easy integrations with FTP, FTPS, SFTP, WebDAV, Google Drive, Microsoft OneDrive, Dropbox, Amazon S3 and easy One-click restoration.</p>
+<p>Your website is your asset and it needs to constantly be protected from various security issues, server issues, hacking, etc. While you take all precautionary steps to protect your website, backups are the best form of security. With Backuply, you can be confident that your data is protected and is always available for restore during any disaster. Backuply creates full backups of your website and you can restore it to the same or a new WordPress website with the click of a button.</p>
+<p>Our backup and website cloning technology have been in use for more than a decade and we have now ported it to WordPress.</p>
+<p>You can find our official documentation at <a href="https://backuply.com/docs" rel="nofollow ugc">https://backuply.com/docs</a>. We are also active in our community support forums on wordpress.org if you are one of our free users. Our Premium Support Ticket System is at <a href="https://softaculous.deskuss.com/open.php?topicId=17" rel="nofollow ugc">https://softaculous.deskuss.com/open.php?topicId=17</a></p>
+<p><a href="https://backuply.com" title="Backuply Homepage" rel="nofollow ugc">Home Page</a> | <a href="https://softaculous.deskuss.com/open.php?topicId=17" title="Backuply Support" rel="nofollow ugc">Support</a> | <a href="http://backuply.com/docs" title="Documents" rel="nofollow ugc">Documents</a></p>
+<h3>Features</h3>
+<ul>
+<li><strong>Local Backups:</strong> Backup your complete website locally on your server with just one click.</li>
+<li><strong>FTP:</strong> Easily backup and restore your backup using FTP.</li>
+<li><strong>Backup to Google Drive</strong></li>
+<li><strong>One-Click Restore:</strong> Restore your website files and databases with a one-click restore.</li>
+<li><strong>Migration:</strong> Stress-free migration to any domain or host.</li>
+<li><strong>Database Backups:</strong> Backup your website’s database only.</li>
+</ul>
+<h3>Premium Features</h3>
+<ul>
+<li><strong>Automatic Backups:</strong> Choose to back up your website at regular intervals like Daily, Weekly, or Monthly. You can also customize the interval.</li>
+<li><strong>One-click Restore:</strong> With Backuply, restoring your website is simple. Just click on the restore button next to the backup you want to restore from. Your entire backup will be downloaded and the changes will be applied to the website.</li>
+<li><strong>Selective Backup:</strong> You have the option to choose from whether only files or database backups or full backups should be performed.</li>
+<li><strong>Website Migration:</strong> You can easily migrate your website by restoring from one of the Cloud Backup options on the new website.</li>
+<li><strong>Website Cloning:</strong> If you would like to clone your website for any purpose, Backuply can do that for you. Backuply will restore the data but replace the URLs and information as per the existing website. In this way, you can create multiple clones.</li>
+<li><strong>Backup to FTPS:</strong> You can back up your site to an FTPS i.e. FTP over SSL / TLS.</li>
+<li><strong>Backup to SFTP:</strong> Supports the SFTP protocol.</li>
+<li><strong>Backup to Dropbox</strong></li>
+<li><strong>Backup to Microsoft One Drive</strong></li>
+<li><strong>Backup to Amazon S3</strong></li>
+<li><strong>Backup to WebDAV</strong></li>
+<li><strong>Backup to S3 Compatible Storages:</strong> Added support for DigitalOcean Spaces, Linode Object Storage, Vultr Object Storage, and Cloudflare R2.</li>
+<li><strong>Support for WP-CLI:</strong> You can use Backuply through WP-CLI</li>
+<li><strong>Professional Support:</strong> Get professional support and more features to make backup your website with <a href="https://backuply.com/pricing" rel="nofollow ugc">Backuply</a></li>
+</ul>
+<h3>Backups</h3>
+<p>Backup is a way of copying your data or files to a secure place, which can be used to restore your website in case of data loss. Backups are vital in securing the data that you have published or written. Backups with Backuply are easy and secure with support for multiple options of storage like local storage using FTP or using third-party services like Google Drive, Dropbox, Microsoft OneDrive, AWS S3 and WebDAV.<br />
+To make it even easier we support Automatic Backups with a customizable backup schedule.</p>
+<h3>Restores</h3>
+<p>Restoring is just a One-Click process using Backuply. If the selected backup is available then Backuply will restore your backups safely. Restoring a backup will roll back your site in the exact same state as it was when the backup was created.</p>
+<h3>Migration</h3>
+<p>Backuply creates a tar file of your whole WordPress install with the Database, so you can migrate your site to any host or location where WordPress can be installed. All you need to do is create a Backup of your WordPress install on a remote location, and that’s it, It can be synced on any WordPress install with ease so you just need to restore the synced backup on the new location for Migration to happen.</p>
+<h3>How to install Backuply</h3>
+<p>Go To your WordPress install -> Plugins -> Add New Button -> In Search Box search For Backuply -> Click on Install.</p>
+";s:3:"faq";s:334:"<p>Do you have questions related to Backuply? Use the following links :</p>
+<ol>
+<li><a href="https://backuply.com/docs" rel="nofollow ugc">Docs</a></li>
+<li><a href="https://backuply.deskuss.com" rel="nofollow ugc">Help Desk</a></li>
+<li><a href="https://wordpress.org/support/plugin/backuply" rel="ugc">Support Forum</a></li>
+</ol>
+";s:9:"changelog";s:15736:"<h4>1.4.4 (April 7th 2025)</h4>
+<ul>
+<li>[Improvement] Backup upload speed has been improved, so now uploads will be faster.</li>
+<li>[Improvement] Cleanup after restore has been made better.</li>
+<li>[Security Improvements] Made some files at restore more random.</li>
+<li>[Bug-Fix] On restore failure, email notification was not getting sent, this has been fixed.</li>
+<li>[Bug-Fix] If the backup file tar.gz was not there on the remote storage and a attempt to restore was made then the restore was stuck in download loop, this has been fixed.</li>
+</ul>
+<h4>1.4.3 (February 10th 2025)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue which was causing downloaded file to be of size 0, this has been fixed.</li>
+</ul>
+<h4>1.4.2 (January 17th 2025)</h4>
+<ul>
+<li>[Bug-Fix] For some users the download file was returning different file name, this has been fixed.</li>
+<li>[Improvement] Restore was getting blocked in case where htaccess rules had some blocking rule, this has been handled.</li>
+</ul>
+<h4>1.4.1 (November 29th 2024)</h4>
+<ul>
+<li>[Improvement] The backup logs were overwhelming the browsers of some users, we have improved that by just logging the required info which reduces the backup logs.</li>
+</ul>
+<h4>1.4.0 (November 19th 2024)</h4>
+<ul>
+<li>[Task] Made some internal code changes.</li>
+</ul>
+<h4>1.3.9 (November 18th 2024)</h4>
+<ul>
+<li>[Task] Improved some internal codes and tested the same.</li>
+</ul>
+<h4>1.3.8 (November 4th 2024)</h4>
+<ul>
+<li>[Task] Tested with WordPress 6.7</li>
+<li>[Bug-Fix] Settings page was getting killed when some data was not integer.</li>
+<li>[Bug-Fix] functions.php was loading later than few of the registered hooks, which was causing issue to some users this has been fixed.</li>
+</ul>
+<h4>1.3.7 (October 21th 2024)</h4>
+<ul>
+<li>[Improvement] Added retries in Backuply cloud upload.</li>
+</ul>
+<h4>1.3.6 (September 24th 2024)</h4>
+<ul>
+<li>[Improvement] Error reporting has been improved.</li>
+<li>[Task] Improved license handling.</li>
+</ul>
+<h4>1.3.5 (September 13th 2024)</h4>
+<ul>
+<li>[Security-Fix] A security issue reported by bart[WordFence], has been fixed.</li>
+<li>[Improvement] Serialization fix has been improved, its now atleast 100 times faster now.</li>
+</ul>
+<h4>1.3.4 (September 6th 2024)</h4>
+<ul>
+<li>[Improvement] Restores are now faster.</li>
+<li>[Bug-Fix] There was an issue with serialization fix, that has been fixed.</li>
+<li>[Bug-Fix] On some servers backup request was getting blocked as WordPress’s default User Agent add url too in it which some servers and firewalls sees to be suspicious, this has been fixed.</li>
+</ul>
+<h4>1.3.3 (July 27th 2024)</h4>
+<ul>
+<li>[Improvement] Restore timeouts have been improved to handle restores easily on the slow servers.</li>
+<li>[Improvement] Downloads of local backpup will be handled directly by the browser now.</li>
+<li>[Task] Tested with WordPress 6.6.</li>
+<li>[Bug-Fix] There was an issue adding Backuply Cloud, if the user has reached quota limit, that has been fixed.</li>
+</ul>
+<h4>1.3.2 (June 19th 2024)</h4>
+<ul>
+<li>[Improvement] Restores work better now, will go in maintenance mode when restoring database to prevent noise from WordPress or plugin functionalities, which could break the restore sometimes.</li>
+<li>[Improvement] We have refactored Google Drive lib and it will improve the speed of download when restoring by around 10%.</li>
+<li>[Improvement] Backups will sync just after they are uploaded, using Backuply’s upload module.</li>
+<li>[Bug-Fix] PHP warnings on backup_ins.php has been fixed.</li>
+<li>[Bug-Fix] PHP warnings when deletion of backups has been fixed.</li>
+</ul>
+<h4>1.3.1 (May 09th 2024)</h4>
+<ul>
+<li>[Bug-Fix] There was a issue with restore for some user, where Backuply was unable to unzip, that has been fixed.</li>
+<li>[Bug-Fix] There was an issue with migration in case when the wp-config.php file was not writable, that has been fixed.</li>
+<li>[Bug-Fix] sanitize_file_name function was adding a _ in the file names which was preventing downloads for some domains, which has been fixed.</li>
+<li>[Bug-Fix] Some PHP warnings has been fixed.</li>
+</ul>
+<h4>1.3.0 (April 16th 2024)</h4>
+<ul>
+<li>[Bug-Fix] There was issue downloading Backups for some users that has been fixed.</li>
+<li>[Bug-Fix] There was an issue connecting to Database when the database was being served over a socket, that has been fixed.</li>
+<li>[Bug-Fix] There was issue in using Custom Cron for Bcloud users that has been fixed.</li>
+<li>[Bug-Fix] For some of the OneDrive users there was a error when trying to add the Backup location, that has been fixed.</li>
+</ul>
+<h4>1.2.9 (March 26th 2024)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue with download for some user because of their WordPress not supporting tar or gz mime types, this has been fixed.</li>
+<li>[Bug-Fix] There was an issue when syncing a backup uploaded manually which originally belonged to backup location other than Local Folder, would not show in the Backup History, that has been fixed.</li>
+<li>[Task] Tested with WordPress 6.5.</li>
+</ul>
+<h4>1.2.8 (March 13 2024)</h4>
+<ul>
+<li>[Improvement] We have made improvements to make Backup Downloads better.</li>
+</ul>
+<h4>1.2.7 (February 16 2024)</h4>
+<ul>
+<li>[Bug-Fix] Version 1.2.5 got included in the plugin package, this release is to fix that.</li>
+</ul>
+<h4>1.2.6 (February  08 2024)</h4>
+<ul>
+<li>[Security-Fix] In some cases it was possible to fill up the logs and has been fixed. Reported by Villu Orav (WordFence)</li>
+<li>[Bug-Fix] There was issue while restoring which has been fixed.</li>
+<li>[Bug-Fix] There was an issue uploading backup file, in which in the name of uploaded backup a _(underscore) was getting added due to a WordPress sanitization function which have been fixed.</li>
+</ul>
+<h4>1.2.5 (February 01 2024)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue uploading backup on Safari Browser that has been fixed.</li>
+</ul>
+<h4>1.2.4 (January 25 2024)</h4>
+<ul>
+<li>[Feature] Option to upload backup files to the user server, directly form the plugin.</li>
+<li>[Improvement] A suggestion made by Bence Szalai to add limit on admin access on Exclude list folder.</li>
+<li>[Improvement] Made the settings of Custom Auto Backups simpler.</li>
+<li>[Bug-Fix] There was an issue with deletion in Backup rotation which has been fixed.</li>
+</ul>
+<h4>1.2.3 (January 18 2024)</h4>
+<ul>
+<li>[Feature] Option to add notes to every manual backups.</li>
+<li>[Bug-Fix] The /backuply/backups folder was getting filled with tmp files or the backup files in case of faliure, which has been fixed, by adding a daily Cron to clean it.</li>
+<li>[Bug-Fix] Backuply Cloud storage was not getting updated on deletion or Creation of backups, it has been fixed.</li>
+<li>[Bug-Fix] cPgaurd was blocking restores, this has been fixed.</li>
+<li>[Bug-Fix] There was an issue while auto backup where security check was failing which has been fixed.</li>
+<li>[Tweak] Backup Rotation was happening before creation of Backup, which is risky, this has been changed to delete after successful backup.</li>
+</ul>
+<h4>1.2.2 (December 15 2023)</h4>
+<ul>
+<li>[Security-fix] There was a privilege check failure which has been fixed.</li>
+</ul>
+<h4>1.2.1 (December 07 2023)</h4>
+<ul>
+<li>[Structural Change] We have made some structural changes, now Backuply Free will be required for the Pro version to work.</li>
+<li>[Improvement] Now you can check quota of backup locations like OneDrive, Dropbox, and Google Drive.</li>
+<li>[Bug-Fix] There was issue with updation of Backuply Cloud quota which has been fixed.</li>
+<li>[Bug-Fix] There was issue while restoring using SFTP and FTPS which has been fixed.</li>
+<li>[Bug-Fix] There were some warnings on the settings page which has been fixed.</li>
+<li>[Bug-Fix] There was an issue related to deletion of Backuply Cloud backups when storage limt reached, which has been fixed.</li>
+</ul>
+<h4>1.2.0 (November 06 2023)</h4>
+<ul>
+<li>[Improvement] While restoring the permission of the root folder wont be updated.</li>
+<li>[Improvement] Logs have been improved to, while restoring all fatal error will be logged in Backuply logs.</li>
+<li>[Bug-Fix] There was a conflict with a few SMTP plugins, which has been fixed.</li>
+<li>[Bug-Fix] There was issue unsetting Email notification field which has been fixed.</li>
+<li>[Bug-Fix] On some servers the restore was failing as it was not able to create files, that has been fixed.</li>
+<li>[Task] Tested with WordPress 6.4.</li>
+</ul>
+<h4>1.1.9 (October 05 2023)</h4>
+<ul>
+<li>[Tweak] Now the timezone of the Backup will be the timezone of the WordPress.</li>
+<li>[Tweak] Memory limit fatal error will be logged in Backuply backup progress.</li>
+<li>[Bug-Fix] There was a function incompatibility issue when creating Backup to FTP.</li>
+<li>[Bug-Fix] There was a issue in FTPS when uploading the file, which has been fixed.</li>
+<li>[Bug-Fix] There was an issue with migration of website when migrating from  / to /example, which has been fixed.</li>
+</ul>
+<h4>1.1.8 (August 24 2023)</h4>
+<ul>
+<li>[Bug-Fix] There was issue while restoring, some users were getting error of unable to unzip, that has been fixed.</li>
+<li>[Tweak] Nag timings where updated.</li>
+<li>[Tweak] Database backups created after version 1.1.7 will delete old tables progressively while restoring, instead of deleting them all at once. This is to reduce the chance of breaking the site if something goes wrong during the restore process..</li>
+</ul>
+<h4>1.1.7 (July, 25 2023)</h4>
+<ul>
+<li>[Feature] Option to download Backuply Cloud backups.</li>
+<li>[Bug-Fix] There was an issue for some users while restoring, with a fatal error of duplicate entry in database restore, which has been fixed.</li>
+<li>[Tweak] The chunk size of Google Drive while restore has been increased to improve the speed of download.</li>
+</ul>
+<h4>1.1.6 (July, 05 2023)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue while restoring of backup not able to unzip that has been fixed.</li>
+<li>[Bug-Fix] There was an issue while downloading backup through Backuply while restoring, that has been fixed.</li>
+</ul>
+<h4>1.1.5 (June, 29 2023)</h4>
+<ul>
+<li>[Bug-Fix] There was issue with Auto Backups for Trial users that has been fixed.</li>
+<li>[Bug-Fix] There was an issue while connecting to Backuply through the trial promo.</li>
+</ul>
+<h4>1.1.4 (June, 24 2023)</h4>
+<ul>
+<li>[Feature] Backuply Cloud now provides 10GB of default space which was set as 1 GB previously.</li>
+<li>[Bug-Fix] The quota of Backuply Cloud was not showing properly.</li>
+<li>[Bug-Fix] On restore a info file was not getting delete after completion of restore that has been fixed.</li>
+</ul>
+<h4>1.1.3 (June, 13 2023)</h4>
+<ul>
+<li>[Feature] Now use Backuply Cloud as your Backup location to keep your website safe.</li>
+<li>[Bug-Fix] There was an issue with Gdrive, backup was getting stuck.</li>
+<li>[Bug-Fix] A user faced a fatal error while listing backups that has been fixed.</li>
+</ul>
+<h4>1.1.2 (April, 3 2023)</h4>
+<ul>
+<li>[Bug-Fix] For some user backup was completing but not creating backup of all directories when backup of Database and Directories was selected that has been fixed.</li>
+<li>[Bug-Fix] Backup was failing at 100% when creating backup to Google Drive that has been fixed.</li>
+<li>[Bug-Fix] There was an issue while deleting local backups thats has been fixed.</li>
+</ul>
+<h4>1.1.1 (March, 31 2023)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue with Backup and restore on sites with broken SSL that has been fixed.</li>
+<li>[Task] Tested with WordPress 6.2.</li>
+</ul>
+<h4>1.1.0 (February, 13 2023)</h4>
+<ul>
+<li>[Feature] Added Support for Wasabi S3 Compatible Object Storage.</li>
+<li>[Feature] Local backups created in Backuply version 1.1.0 and above can be synced.</li>
+<li>[Tweak] To initiate backup we were dependent on WP CRON, which was causing issue for some of our users, as WP Cron was getting stuck. So now manual backup dosen’t uses WP CRON, WP CRON in backuply is only used by Automatic Backups.</li>
+</ul>
+<h4>1.0.9 (December, 24 2022)</h4>
+<ul>
+<li>[Security-Improvement] Removed all app keys.</li>
+<li>[Security-Improvement] Made restore logs even more secure with more randomness</li>
+</ul>
+<h4>1.0.8 (December, 22 2022)</h4>
+<ul>
+<li>[Security-Fix] Added index.html file and web.config to improve the protection of the backup folder.</li>
+<li>[Security-Fix] Made the backup folder have random strings to make the name be unpredictible.</li>
+<li>[Bug-Fix] There was an issue while creating database backup for some users that has been fixed.</li>
+<li>[Bug-Fix] There was issue loading last logs for some uses, that has been fixed.</li>
+<li>[Bug-Fix] For some user while downloading the Local Backup the progress bar was not updating that has been fixed.</li>
+<li>[Removed] Installing Backuply Pro from the Free version as per the WordPress guidelines.</li>
+</ul>
+<h4>1.0.7 (December, 19 2022)</h4>
+<ul>
+<li>[Security-Fix] The Google Drive App Secret key of Backuply was committed in the code. This is fixed. We have issued a new secret as well !</li>
+</ul>
+<h4>1.0.6 (December, 12 2022)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue while saving the additional file in settings page that has been fixed.</li>
+<li>[Bug-Fix] Issues related to PHP 8.1 and 8.0 compatibility have been fixed.</li>
+<li>[Bug-Fix] There was an issue while creating backuply config for some users that has been fixed.</li>
+<li>[Bug-Fix] When selecting check all files in Additional file option, all databases were getting selected to in exclude database, that has been fixed.</li>
+<li>[Bug-Fix] When selecting auto backup time the auto backup options weren’t visible for some users that has been fixed.</li>
+<li>[Bug-Fix] For some users the backup was getting stuck at 17% sometimes that has been fixed.</li>
+</ul>
+<h4>1.0.5 (November 15, 2022)</h4>
+<ul>
+<li>[Feature] Added support for WP-CLI, you can perform backup, restore, and sync right from your terminal.</li>
+<li>[Task] We have improved the promotion nags, so it doesn’t cause inconvenience to our users.</li>
+<li>[Bug-Fix] There was a PHP warning being shown while syncing or downloading from Dropbox that has been fixed.</li>
+<li>[Bug-Fix] There was an issue while deleting GDrive backups that has been fixed.</li>
+</ul>
+<h4>1.0.4 (October 14, 2022)</h4>
+<ul>
+<li>[Feature] Added support for S3 Compatible backup locations like DigitalOcean Spaces, Linode Object Storage, Vultr Object Storage, and Cloudflare R2.</li>
+<li>[Feature] Added support for Server Side Encryption for AWS.</li>
+<li>[Task] Google Drive is now available for all users.</li>
+<li>[Bug-Fix] Part Number while downloading for restore in AWS had an issue. That has been fixed.</li>
+<li>[Bug-Fix] For some user restore was getting stuck at repairing database status, that has been fixed.</li>
+</ul>
+<h4>1.0.3 (September 20, 2022)</h4>
+<ul>
+<li>[Improvement] Added Backup Download progress</li>
+<li>[Task] The Backuply nag will now appear after 7 days instead of 1 day.</li>
+<li>[Bug-Fix] The last backup time was shown from 1970 when no backup was created. This has been fixed.</li>
+<li>[Bug-Fix] Backup on Google was failing for some users. This has been fixed.</li>
+<li>[Bug-Fix] On failure, in some cases the partial backup file was not cleaned. This has been fixed.</li>
+<li>[Bug-Fix] At times, the backup nag was not getting dismissed. This has been fixed.</li>
+</ul>
+<h4>1.0.2 (August 18, 2022)</h4>
+<ul>
+<li>Exclude Files, Directories or Database tables from a backup</li>
+<li>Logs for every backup</li>
+<li>Minor bug fixes</li>
+</ul>
+<h4>1.0.1 (July 22, 2022)</h4>
+<ul>
+<li>Added Last Logs of Backups and Restore</li>
+</ul>
+<h4>1.0.0 (July 21, 2022)</h4>
+<ul>
+<li>Released Plugin</li>
+</ul>
+";s:11:"screenshots";s:2327:"<ol><li><a href="https://ps.w.org/backuply/assets/screenshot-1.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-1.png?rev=2760139" alt="<strong>Dashboard</strong> manual backup and info."></a><p><strong>Dashboard</strong> manual backup and info.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-2.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-2.png?rev=2760139" alt="<strong>Settings</strong> set backup settings like backup location, backup options and email to notify."></a><p><strong>Settings</strong> set backup settings like backup location, backup options and email to notify.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-3.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-3.png?rev=2760139" alt="<strong>Backup Locations</strong> add remote locations to backup and restore from."></a><p><strong>Backup Locations</strong> add remote locations to backup and restore from.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-4.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-4.png?rev=2760139" alt="<strong>Backup History</strong> manage all your backups."></a><p><strong>Backup History</strong> manage all your backups.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-5.png?rev=2761227"><img src="https://ps.w.org/backuply/assets/screenshot-5.png?rev=2761227" alt="<strong>Restore Process</strong> easy to understand restore progress."></a><p><strong>Restore Process</strong> easy to understand restore progress.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-6.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-6.png?rev=2760139" alt="<strong>Add Backup Location</strong> with a fairly simple form to add a backup location."></a><p><strong>Add Backup Location</strong> with a fairly simple form to add a backup location.</p></li><li><a href="https://ps.w.org/backuply/assets/screenshot-7.png?rev=2760139"><img src="https://ps.w.org/backuply/assets/screenshot-7.png?rev=2760139" alt="<strong>Backup Process</strong> easy to understand backup progress."></a><p><strong>Backup Process</strong> easy to understand backup progress.</p></li></ol>";s:7:"reviews";s:15999:"<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Great plugin</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/saleahm/"><img alt='' src='https://secure.gravatar.com/avatar/4f50e0fd02199d73c21012603df7ff02ebe24329e2abb013b8a3a8ebb89223f5?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/4f50e0fd02199d73c21012603df7ff02ebe24329e2abb013b8a3a8ebb89223f5?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/saleahm/" class="reviewer-name">saleahm</a> on <span class="review-date">April 13, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>Awesome and very useful</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Worked on one server, didn't work on another</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="4 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="4" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-empty"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/kashmiri/"><img alt='' src='https://secure.gravatar.com/avatar/d59321d00f2e94a63f581772460d3cc46205da58d8da920acd197f109c0df524?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/d59321d00f2e94a63f581772460d3cc46205da58d8da920acd197f109c0df524?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/kashmiri/" class="reviewer-name">kashmiri</a> on <span class="review-date">April 10, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>The plugin didn't work on one of two servers  unsurprisingly, the one with lower specs. The progress was either stuck at 17% or at 0%.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It worked like a charm after migrating to a different server (using a different plugin), the difference being mainly much higher <em>memory_limit</em> and <em>post_max_size</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One star removed because the plugin was stuck instead of informing the user of suboptimal specs, while attempts to stop the script didn't work consistently. Once these two issues are addressed, I'll up the rating to 5 stars, because otherwise the plugin is simply brilliant  when it works.</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Very useful</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/konrad971/"><img alt='' src='https://secure.gravatar.com/avatar/c56e5e4c6cccb8dce27acc25790d921b2fda5a0db23cb29660cc05ff64295da5?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/c56e5e4c6cccb8dce27acc25790d921b2fda5a0db23cb29660cc05ff64295da5?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/konrad971/" class="reviewer-name">konrad971</a> on <span class="review-date">March 19, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>I use this plugin for several websites. Never had issues. The backup file is available on my hosting space. And the process is quite easy. I recommend !</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Nice plugin</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/crahman332/"><img alt='' src='https://secure.gravatar.com/avatar/4000d85db1f2b18f33fd78c826cceaee285fa3d8edb255aaf782d44aed5e09e4?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/4000d85db1f2b18f33fd78c826cceaee285fa3d8edb255aaf782d44aed5e09e4?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/crahman332/" class="reviewer-name">crahman332</a> on <span class="review-date">March 7, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>This plugin is useful for wordpress website.</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Quick, convenient backup of all u need for a successful restore (tested ! :) )</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/sdhelliott/"><img alt='' src='https://secure.gravatar.com/avatar/41f243a907fc63401bff7e81edf25daa631fad70464f25284591f09d58e96b22?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/41f243a907fc63401bff7e81edf25daa631fad70464f25284591f09d58e96b22?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/sdhelliott/" class="reviewer-name">sdhelliott</a> on <span class="review-date">February 16, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>and that's 5 stars for the free version.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wouldn't it be even better if the (optional) backup note (additional option on the Dashboard/CreateBackup page/tab) was actually displayed in the BackupHistory tab alongside the Restore button(s) ?</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Previously worked, now permanently stuck at 17%</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="2 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="2" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-empty"></span><span class="star dashicons dashicons-star-empty"></span><span class="star dashicons dashicons-star-empty"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/webartistry/"><img alt='' src='https://secure.gravatar.com/avatar/920d7fb9a1788d08334f06642965e96abb5487def37cd7c7488eb09e33e4895c?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/920d7fb9a1788d08334f06642965e96abb5487def37cd7c7488eb09e33e4895c?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/webartistry/" class="reviewer-name">visualfire <small>(webartistry)</small></a> on <span class="review-date">January 31, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>I have the pro version of the plugin and it worked well, until it got stuck at 17%... permanently. I've uninstalled and reinstalled the plugin, removing all tables from my database in between installs, but that did not help with the issue. The help documents and state that PHP INI memory must be at least 256MB, but mine is 1024MB, so memory should not be an issue! I've spent as much time troubleshooting this as I'm willing. Backups are not an area in which I am willing to deal with unnecessary hassles or risks. Oh well!</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Ótimo</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/rwydra/"><img alt='' src='https://secure.gravatar.com/avatar/47a64878d6409e3d525a99ddd9e55099060571345e4bcb6ba7af40bda4bfa26e?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/47a64878d6409e3d525a99ddd9e55099060571345e4bcb6ba7af40bda4bfa26e?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/rwydra/" class="reviewer-name">rwydra</a> on <span class="review-date">January 20, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>Entrega o que promete!</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">good plugin!</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/klebeband356/"><img alt='' src='https://secure.gravatar.com/avatar/fc2679b74f0d59038ba6780cc5f5e7e761d6a85d91dcacb72f8e6bf1113a3b5d?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/fc2679b74f0d59038ba6780cc5f5e7e761d6a85d91dcacb72f8e6bf1113a3b5d?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/klebeband356/" class="reviewer-name">klebeband356</a> on <span class="review-date">January 17, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>good job</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">i suck at this</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="4 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="4" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-empty"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/peacefullife/"><img alt='' src='https://secure.gravatar.com/avatar/5e342bf915c3f0ee5e2e9677153351a616662f1736645e0487dae3d8a4648f9f?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/5e342bf915c3f0ee5e2e9677153351a616662f1736645e0487dae3d8a4648f9f?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/peacefullife/" class="reviewer-name">peacefullife</a> on <span class="review-date">January 15, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>just because i cannot, for the life of me, get this backup to run...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>doesn't mean the product sucks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>thus, 3 stars.</p>
+<!-- /wp:paragraph --></div>
+</div>
+<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Great Plugin</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="5 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="5" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-filled"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/mrhebrew1/"><img alt='' src='https://secure.gravatar.com/avatar/e2e034f357e7168a5ee20b033eb274291629a1bc7001f92c525040c991e5a315?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/e2e034f357e7168a5ee20b033eb274291629a1bc7001f92c525040c991e5a315?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/mrhebrew1/" class="reviewer-name">Jacob Israel <small>(mrhebrew1)</small></a> on <span class="review-date">January 7, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body"><!-- wp:paragraph -->
+<p>Great plugin. Had to restore my site and it did just what it was intended to do.</p>
+<!-- /wp:paragraph --></div>
+</div>
+";}s:17:"short_description";s:159:"Backup, restores, and migration with Backuply are fairly simple with a wide range of storage options from Local Backups, FTP to cloud options like AWS …";s:13:"download_link";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.4.zip";s:14:"upgrade_notice";a:0:{}s:11:"screenshots";a:7:{i:1;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-1.png?rev=2760139";s:7:"caption";s:50:"<strong>Dashboard</strong> manual backup and info.";}i:2;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-2.png?rev=2760139";s:7:"caption";s:103:"<strong>Settings</strong> set backup settings like backup location, backup options and email to notify.";}i:3;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-3.png?rev=2760139";s:7:"caption";s:82:"<strong>Backup Locations</strong> add remote locations to backup and restore from.";}i:4;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-4.png?rev=2760139";s:7:"caption";s:56:"<strong>Backup History</strong> manage all your backups.";}i:5;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-5.png?rev=2761227";s:7:"caption";s:69:"<strong>Restore Process</strong> easy to understand restore progress.";}i:6;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-6.png?rev=2760139";s:7:"caption";s:88:"<strong>Add Backup Location</strong> with a fairly simple form to add a backup location.";}i:7;a:2:{s:3:"src";s:61:"https://ps.w.org/backuply/assets/screenshot-7.png?rev=2760139";s:7:"caption";s:67:"<strong>Backup Process</strong> easy to understand backup progress.";}}s:4:"tags";a:5:{s:6:"backup";s:6:"backup";s:12:"cloud-backup";s:12:"cloud backup";s:15:"database-backup";s:15:"database backup";s:7:"restore";s:7:"restore";s:16:"wordpress-backup";s:16:"wordpress backup";}s:8:"versions";a:23:{s:5:"1.0.9";s:57:"https://downloads.wordpress.org/plugin/backuply.1.0.9.zip";s:5:"1.1.0";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.0.zip";s:5:"1.1.1";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.1.zip";s:5:"1.1.2";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.2.zip";s:5:"1.1.3";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.3.zip";s:5:"1.1.4";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.4.zip";s:5:"1.1.6";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.6.zip";s:5:"1.1.8";s:57:"https://downloads.wordpress.org/plugin/backuply.1.1.8.zip";s:5:"1.2.1";s:57:"https://downloads.wordpress.org/plugin/backuply.1.2.1.zip";s:5:"1.2.2";s:57:"https://downloads.wordpress.org/plugin/backuply.1.2.2.zip";s:5:"1.2.6";s:57:"https://downloads.wordpress.org/plugin/backuply.1.2.6.zip";s:5:"1.3.4";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.4.zip";s:5:"1.3.5";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.5.zip";s:5:"1.3.6";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.6.zip";s:5:"1.3.7";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.7.zip";s:5:"1.3.8";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.8.zip";s:5:"1.3.9";s:57:"https://downloads.wordpress.org/plugin/backuply.1.3.9.zip";s:5:"1.4.0";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.0.zip";s:5:"1.4.1";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.1.zip";s:5:"1.4.2";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.2.zip";s:5:"1.4.3";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.3.zip";s:5:"1.4.4";s:57:"https://downloads.wordpress.org/plugin/backuply.1.4.4.zip";s:5:"trunk";s:51:"https://downloads.wordpress.org/plugin/backuply.zip";}s:14:"business_model";b:0;s:14:"repository_url";s:0:"";s:22:"commercial_support_url";s:0:"";s:11:"donate_link";s:0:"";s:7:"banners";a:2:{s:3:"low";s:63:"https://ps.w.org/backuply/assets/banner-772x250.png?rev=2760332";s:4:"high";s:64:"https://ps.w.org/backuply/assets/banner-1544x500.png?rev=2760332";}s:5:"icons";a:1:{s:2:"1x";s:61:"https://ps.w.org/backuply/assets/icon-128x128.png?rev=2760139";}s:12:"preview_link";s:0:"";s:4:"Name";s:51:"Backuply – Backup, Restore, Migrate and Clone";}s:7:"siteseo";a:35:{s:4:"name";s:30:"SiteSEO – SEO Simplified";s:4:"slug";s:7:"siteseo";s:7:"version";s:5:"1.2.1";s:6:"author";s:69:"<a href="https://profiles.wordpress.org/softaculous/">softaculous</a>";s:14:"author_profile";s:43:"https://profiles.wordpress.org/softaculous/";s:12:"contributors";a:2:{s:9:"pagelayer";a:3:{s:7:"profile";s:41:"https://profiles.wordpress.org/pagelayer/";s:6:"avatar";s:120:"https://secure.gravatar.com/avatar/da11d7dd9a75193431feed4a3e58a875f78b6180bd032bf980e311f10713bee2?s=96&d=monsterid&r=g";s:12:"display_name";s:9:"pagelayer";}s:11:"softaculous";a:3:{s:7:"profile";s:43:"https://profiles.wordpress.org/softaculous/";s:6:"avatar";s:120:"https://secure.gravatar.com/avatar/d5f508eb226ae8cade7ed9f0f0cda7115f419afe760e0b64af278ed042b47c1f?s=96&d=monsterid&r=g";s:12:"display_name";s:11:"softaculous";}}s:8:"requires";s:3:"5.0";s:6:"tested";s:3:"6.8";s:12:"requires_php";s:3:"7.2";s:16:"requires_plugins";a:0:{}s:6:"rating";i:20;s:7:"ratings";a:5:{i:5;i:0;i:4;i:0;i:3;i:0;i:2;i:0;i:1;i:1;}s:11:"num_ratings";i:1;s:11:"support_url";s:45:"https://wordpress.org/support/plugin/siteseo/";s:15:"support_threads";i:1;s:24:"support_threads_resolved";i:0;s:15:"active_installs";i:200000;s:12:"last_updated";s:21:"2025-04-21 2:01pm GMT";s:5:"added";s:10:"2023-12-29";s:8:"homepage";s:37:"http://wordpress.org/plugins/siteseo/";s:8:"sections";a:6:{s:11:"description";s:5340:"<p>SiteSEO is a revolutionary WordPress SEO plugin that seamlessly integrates with all page builders and themes, making it the best choice for optimizing your website.</p>
+<p>SiteSEO is a powerful WordPress SEO plugin to maximize your online Visibility, boost traffic and elevate rankings. It helps you to manage XML Sitemaps, improve social sharing, manage Titles and Metas and so much more.</p>
+<p>You can find our official documentation at <a href="https://siteseo.io/docs" rel="nofollow ugc">https://siteseo.io/docs</a>. We are also active in our community support forums on wordpress.org if you are one of our free users. Our Premium Support Ticket System is at <a href="https://softaculous.deskuss.com" rel="nofollow ugc">https://softaculous.deskuss.com</a></p>
+<p><a href="https://siteseo.io" title="SiteSEO Homepage" rel="nofollow ugc">Home Page</a> | <a href="https://softaculous.deskuss.com" title="SiteSEO Support" rel="nofollow ugc">Support</a> | <a href="http://siteseo.io/docs" title="Documents" rel="nofollow ugc">Documents</a></p>
+<h3>Key Features :</h3>
+<ul>
+<li><strong>Content Analysis :</strong> Get valuable insights to create content that is perfectly optimized for search engines.</li>
+<li><strong>Universal SEO Metabox :</strong> Edit your SEO metadata from any page builder or theme builder effortlessly.</li>
+<li><strong>Easy Import :</strong> Migrate your post and term metadata from other plugins with a simple one-click process.</li>
+</ul>
+<h3>Why Choose SiteSEO :</h3>
+<ul>
+<li><strong>Save Time and Money:</strong> Import and export metadata easily with SiteSEO PRO, which starts at $49 per year.</li>
+<li><strong>All-in-One Solution:</strong> SiteSEO comes with all the features you need to optimize your WordPress site’s SEO, eliminating the need for additional extensions and potential conflicts.</li>
+<li><strong>Easy and User-Friendly:</strong> You don’t need to be an SEO expert or coder to use SiteSEO. Most settings are automatically configured, and an installation wizard guides you through the setup process.</li>
+</ul>
+<h3>SiteSEO Free Features :</h3>
+<h3>SiteSEO Free offers a comprehensive set of features, including :</h3>
+<ul>
+<li><strong>Google Indexing API and IndexNow API</strong> for quick content indexing.</li>
+<li><strong>Content analysis</strong> with unlimited keywords for optimized content creation.</li>
+<li><strong>Google Knowledge Graph</strong> support for better visibility.</li>
+<li><strong>Social media previews</strong> for Google, Facebook, and Twitter.</li>
+<li><strong>Open Graph and Twitter Cards</strong> integration for enhanced social media sharing.</li>
+<li><strong>Customizable titles and meta</strong> descriptions with dynamic variables.</li>
+<li><strong>Installation wizard</strong> for hassle-free site setup.</li>
+</ul>
+<h3>Upgrade to SiteSEO PRO for More Power:</h3>
+<h3>Unlock advanced capabilities with SiteSEO PRO, such as:</h3>
+<ul>
+<li><strong>Enhanced WooCommerce Support:</strong> Optimize e-commerce sites with price and currency meta tags, product XML sitemaps, and more.</li>
+<li><strong>Google Page Speed Insights:</strong> Analyze your site’s performance on mobile and desktop, including Core Web Vitals.</li>
+</ul>
+<h4>Multi-language Support :</h4>
+<p>SiteSEO is available in multiple languages, and you can contribute to further localization on translate.wordpress.org.</p>
+<h4>Integrations:</h4>
+<p>SiteSEO smoothly integrates with popular tools such as Elementor, WooCommerce and more.</p>
+<h4>Get Started with SiteSEO Today!</h4>
+<p>Visit our website siteseo.io for more information, join our official community group, and explore our resources to improve your SEO game.<br />
+Don’t miss out on the ultimate SEO solution for your WordPress website  Get SiteSEO now!</p>
+<h4>Third Party API usage</h4>
+<ol>
+<li>IndexNow: is used to inform Microsoft Bing about the latest content changes on a user’s website. The plugin sends a list of updated URLs along with the API key generated when the user saved the Instant Indexing settings. It also includes the site’s URL and the URL of the key location, allowing Bing to verify the website’s identity.<a href="https://www.indexnow.org/terms" rel="nofollow ugc">Terms and Condition</a> | <a href="https://www.indexnow.org" rel="nofollow ugc">IndexNow.org</a></li>
+<li>Google Instant Index: Is a service used to notify Google when a post is created, updated, or deleted. SiteSEO utilizes this service to inform Google by sending the updated post’s URL, its state (“UPDATE” or “DELETE”), and an access token obtained via Google OAuth. <a href="https://developers.google.com/terms/site-terms" rel="nofollow ugc">Terms and Conditions</a> | <a href="https://developers.google.com" rel="nofollow ugc">Google Search Central</a></li>
+<li>Google OAuth: When using Google Instant Indexing SiteSEO need to verify with Google the keys the users has set to access Google’s services. So SiteSEO sends the key users has provided in the SiteSEO settings to Google to verify the user is authorized to use those keys for Instant Indexing. <a href="https://developers.google.com/terms/site-terms" rel="nofollow ugc">Terms and Conditions</a> | <a href="https://developers.google.com" rel="nofollow ugc">Google Search Central</a></li>
+</ol>
+";s:12:"installation";s:228:"<ol>
+<li>Upload ‘siteseo’ to the ‘/wp-content/plugins/’ directory</li>
+<li>Activate the plugin through the ‘Plugins’ menu in WordPress</li>
+<li>Click on SiteSEO and apply settings.</li>
+</ol>
+";s:3:"faq";s:1170:"
+<dt id='how to use google tag manager / facebook pixel with siteseo ?'>
+How to use Google Tag Manager / Facebook Pixel with SiteSEO ?
+</h4>
+<p>
+<p>Go to SiteSEO > Analytics > Custom Tracking tab. Paste GTM / Facebook Pixel tracking code to [HEAD] Add an additional tracking code / [BODY] Add an additional tracking code textarea fields. Save changes and clear your cache.</p>
+</p>
+<dt id='which types of sitemaps support siteseo?'>
+Which types of sitemaps support SiteSEO?
+</h4>
+<p>
+<p>XML sitemaps for search engines: post, page, post type, taxonomies, images and author.<br />
+HTML sitemap for accessibility and SEO.<br />
+SiteSEO PRO supports Google News XML.</p>
+</p>
+<dt id='is siteseo gdpr compliant?'>
+Is SiteSEO GDPR compliant?
+</h4>
+<p>
+<p>Yes!</p>
+</p>
+<dt id='is siteseo compatible with wordpress multisite ?'>
+Is SiteSEO compatible with WordPress multisite ?
+</h4>
+<p>
+<p>Yes!</p>
+</p>
+<dt id='my question is not listed here!'>
+My question is not listed here!
+</h4>
+<p>
+<p><a href="https://siteseo.io/docs/faq/" rel="nofollow ugc">Read our complete FAQ on our site</a></p>
+</p>
+
+";s:9:"changelog";s:5567:"<h4>1.2.1 (April 21, 2025)</h4>
+<ul>
+<li>[Pro-Feature] Added RSS sitemap.</li>
+<li>[Pro-Feature] Added Video sitemap.</li>
+<li>[Bug-Fix] There was an issue with Blocking Metabox this has been fixed.</li>
+<li>[Bug-Fix] Some user roles we not getting saved in Advanced security settings, this has been fixed.</li>
+<li>[Bug-Fix] Setting Primary Category was not working, this has been fixed.</li>
+<li>[Bug-Fix] Share of page on Facebook was not giving the correct Thumbnail image and description that has been fixed.</li>
+<li>[Bug-Fix] Auto Indexing on Post publish if the option was enabled was not working that has been fixed.</li>
+<li>[Task] A WordPress deprecation warning has been fixed.</li>
+<li>[Task] Tested with WordPress 6.8</li>
+</ul>
+<h4>1.2.0 (April 1, 2025)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue with H1 heading analysis that has been fixed.</li>
+<li>[Bug-Fix] There was an issue with Remove Category slug, this has been fixed.</li>
+<li>[Bug-Fix] A few onboarding settings were not getting saved, that has been fixed.</li>
+</ul>
+<h4>1.1.9 (March 26, 2025)</h4>
+<ul>
+<li>[Bug-Fix] There was issue with Social Network settings getting erased on update, that has been fixed.</li>
+</ul>
+<h4>1.1.8 (March 25, 2025)</h4>
+<ul>
+<li>[Improvement] Now sitemap supports multiple languages.</li>
+<li>[Improvement] Now meta description and canonical URL supports multiple languages.</li>
+<li>[Improvement pro] The structured data types feature now supports post types, has been added to the metabox.</li>
+<li>[Pro Feature] Added Google News sitemap.</li>
+<li>[Pro-Feature] Added Redirections / 404 monitoring feature.</li>
+<li>[Bug-Fix] There was an issue with OG URL, that has been fixed.</li>
+<li>[Bug-Fix] There was Duplicate meta description and canonical URL on the homepage, that has been fixed.</li>
+</ul>
+<h4>1.1.7 (February 28, 2025)</h4>
+<ul>
+<li>[Task] Title and Meta settings for Post Types and Taxonomies will be enabled by default.</li>
+<li>[Task] WP Sitemap will be disabled, and redirected to SiteSEO sitemap, if SEO settings in SiteSEO are enabled.</li>
+<li>[Bug-Fix] There was an issue with SEO metabox, it was showing up even when Universal metabox was enabled, this has been fixed.</li>
+<li>[Bug-Fix] Google Instant indexing, was returning an error that has been fixed.</li>
+</ul>
+<h4>1.1.6 (February 20, 2025)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue with WooCommerce compatibility that has been fixed.</li>
+<li>[Bug-Fix] Bing API was giving 202 response, this has been fixed.</li>
+</ul>
+<h4>1.1.2 (October 09, 2024)</h4>
+<ul>
+<li>[Bug-Fix] A PHP warning related to a decoding function has been fixed.</li>
+<li>[Pro-Version] A Pro version have been launched which includes features like WooCommerce SEO, Easy Digital Downloads SEO, Dublin Core and PageSpeed Insight</li>
+</ul>
+<h4>1.1.1 (July 30, 2024)</h4>
+<ul>
+<li>[Improvement] Title and Description input feedback has been improved when used in the editor.</li>
+<li>[Bug-Fix] For some users Content Readibility was causing issue, which has been fixed</li>
+<li>[Bug-Fix] There was an issue with Sitemaps, that has been fixed.</li>
+<li>[Bug-Fix] There was an issue with X Social card that has been fixed.</li>
+<li>[Bug-Fix] Product title and description has issue saving which has been fixed.</li>
+<li>[Task] Tested with WordPress 6.6.</li>
+</ul>
+<h4>1.1.0 (May 24, 2024)</h4>
+<ul>
+<li>[Feature] You can now use SiteSEO OnPage SEO optimization tools from the Sidebar plugin in gutenberg.</li>
+<li>[Feature] Added Readibility analysis, which includes, Passive voice anlyser, Power word analyser and more.</li>
+<li>[Task] A New On Page optimization widget.</li>
+<li>[Task] Refactored and rewrote some components of SiteSEO.</li>
+</ul>
+<h4>1.0.9 (May 15, 2024)</h4>
+<ul>
+<li>[Feature] Now users can add Table of Content to their posts.</li>
+<li>[Feature] Option to create and edit robots.txt file.</li>
+<li>[Feature] Option to update .htaccess file.</li>
+</ul>
+<h4>1.0.8 (May 08, 2024)</h4>
+<ul>
+<li>[Feature] Block and shortcode support for On Page Breadcrumbs.</li>
+<li>[Task] Title Settings code refactor.</li>
+</ul>
+<h4>1.0.7 (April 17, 2024)</h4>
+<ul>
+<li>[Feature] Realtime Content Analysis for Gutenberg.</li>
+<li>[Bug-Fix] There was an issue on the search page when SiteSEO was active, which has been fixed.</li>
+</ul>
+<h4>1.0.6 (April 12, 2024)</h4>
+<ul>
+<li>[Feature] Adding Breadcrumb to your posts and pages, can be added using Gutenberg Block, short code or direct PHP code.</li>
+<li>[Improvement] Added option to search in tags.</li>
+<li>[Improvement] Added placeholder images in Facebook and Twitter metabox form.</li>
+<li>[Task] Added credits.</li>
+</ul>
+<h4>1.0.5 (Mar 15, 2024)</h4>
+<ul>
+<li>[Bug-Fix] There was an issue with metadata importer which has been fixed.</li>
+<li>[Bug-Fix] CSS of SiteSEO was not loading on some pages which was breaking the UI at some places that has been fixed.</li>
+<li>[Bug-Fix] Meta description was not adding, which has been fixed.</li>
+<li>[Task] Updated docs links.</li>
+</ul>
+<h4>1.0.4 (Mar 1, 2024)</h4>
+<ul>
+<li>[Improvement] Cleaned code for launch.</li>
+<li>[Bug-Fix] CSS taking longer to load Setup wizard has been fixed.</li>
+<li>[Task] Fixed PHP warnings.</li>
+</ul>
+<h4>1.0.1 (Oct 25, 2023)</h4>
+<ul>
+<li>[Improvement] Sanitizing and escaping methods have been added where necessary to prevent XSS vulnerabilities and breaking the HTML document structure.</li>
+</ul>
+<h4>1.0.0 (August 06, 2023)</h4>
+<ul>
+<li>Released Plugin</li>
+</ul>
+<p><a href="https://siteseo.io/blog/" rel="nofollow ugc">View our complete changelog</a></p>
+";s:11:"screenshots";s:1283:"<ol><li><a href="https://ps.w.org/siteseo/assets/screenshot-1.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-1.png?rev=3264932" alt="SiteSEO Dashboard"></a><p>SiteSEO Dashboard</p></li><li><a href="https://ps.w.org/siteseo/assets/screenshot-2.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-2.png?rev=3264932" alt="Content Analysis Metabox"></a><p>Content Analysis Metabox</p></li><li><a href="https://ps.w.org/siteseo/assets/screenshot-3.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-3.png?rev=3264932" alt="Title Settings Metabox"></a><p>Title Settings Metabox</p></li><li><a href="https://ps.w.org/siteseo/assets/screenshot-4.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-4.png?rev=3264932" alt="Advanced Settings Metabox"></a><p>Advanced Settings Metabox</p></li><li><a href="https://ps.w.org/siteseo/assets/screenshot-5.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-5.png?rev=3264932" alt="Titles and Metas Wizard"></a><p>Titles and Metas Wizard</p></li><li><a href="https://ps.w.org/siteseo/assets/screenshot-6.png?rev=3264932"><img src="https://ps.w.org/siteseo/assets/screenshot-6.png?rev=3264932" alt="SiteMap Settings"></a><p>SiteMap Settings</p></li></ol>";s:7:"reviews";s:1447:"<div class="review">
+	<div class="review-head">
+		<div class="reviewer-info">
+			<div class="review-title-section">
+				<h4 class="review-title">Garbage</h4>
+				<div class="star-rating">
+				<div class="wporg-ratings" aria-label="1 out of 5 stars" data-title-template="%s out of 5 stars" data-rating="1" style="color:#ffb900;"><span class="star dashicons dashicons-star-filled"></span><span class="star dashicons dashicons-star-empty"></span><span class="star dashicons dashicons-star-empty"></span><span class="star dashicons dashicons-star-empty"></span><span class="star dashicons dashicons-star-empty"></span></div>				</div>
+			</div>
+			<p class="reviewer">
+				By <a href="https://profiles.wordpress.org/effortlessenglishclub/"><img alt='' src='https://secure.gravatar.com/avatar/781e97c09b2707d39d60912362a44962622e757ebd51513bfc5fc5bd2309c781?s=16&d=monsterid&r=g' srcset='https://secure.gravatar.com/avatar/781e97c09b2707d39d60912362a44962622e757ebd51513bfc5fc5bd2309c781?s=32&d=monsterid&r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'/></a><a href="https://profiles.wordpress.org/effortlessenglishclub/" class="reviewer-name">DougM <small>(EffortlessEnglishClub)</small></a> on <span class="review-date">April 4, 2025</span>			</p>
+		</div>
+	</div>
+	<div class="review-body">Very inconsistent and has cost me waay too much time trying to troubleshoot it.</div>
+</div>
+";}s:17:"short_description";s:154:"SiteSEO is an easy, fast and powerful SEO plugin for WordPress. Unlock your Website's potential and Maximize your online visibility with our SiteSEO!";s:13:"download_link";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.2.1.zip";s:14:"upgrade_notice";a:0:{}s:11:"screenshots";a:6:{i:1;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-1.png?rev=3264932";s:7:"caption";s:17:"SiteSEO Dashboard";}i:2;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-2.png?rev=3264932";s:7:"caption";s:24:"Content Analysis Metabox";}i:3;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-3.png?rev=3264932";s:7:"caption";s:22:"Title Settings Metabox";}i:4;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-4.png?rev=3264932";s:7:"caption";s:25:"Advanced Settings Metabox";}i:5;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-5.png?rev=3264932";s:7:"caption";s:23:"Titles and Metas Wizard";}i:6;a:2:{s:3:"src";s:60:"https://ps.w.org/siteseo/assets/screenshot-6.png?rev=3264932";s:7:"caption";s:16:"SiteMap Settings";}}s:4:"tags";a:4:{s:16:"meta-description";s:16:"meta description";s:6:"schema";s:6:"schema";s:3:"seo";s:3:"seo";s:11:"xml-sitemap";s:11:"xml sitemap";}s:8:"versions";a:7:{s:5:"1.1.5";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.1.5.zip";s:5:"1.1.6";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.1.6.zip";s:5:"1.1.8";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.1.8.zip";s:5:"1.1.9";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.1.9.zip";s:5:"1.2.0";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.2.0.zip";s:5:"1.2.1";s:56:"https://downloads.wordpress.org/plugin/siteseo.1.2.1.zip";s:5:"trunk";s:50:"https://downloads.wordpress.org/plugin/siteseo.zip";}s:14:"business_model";b:0;s:14:"repository_url";s:0:"";s:22:"commercial_support_url";s:0:"";s:11:"donate_link";s:0:"";s:7:"banners";a:2:{s:3:"low";s:62:"https://ps.w.org/siteseo/assets/banner-772x250.jpg?rev=3016144";s:4:"high";s:63:"https://ps.w.org/siteseo/assets/banner-1544x500.jpg?rev=3016144";}s:5:"icons";a:2:{s:2:"1x";s:60:"https://ps.w.org/siteseo/assets/icon-128x128.png?rev=3015592";s:2:"2x";s:60:"https://ps.w.org/siteseo/assets/icon-256x256.png?rev=3015592";}s:12:"preview_link";s:0:"";s:4:"Name";s:30:"SiteSEO – SEO Simplified";}}

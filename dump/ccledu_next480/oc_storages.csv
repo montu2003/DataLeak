@@ -1,0 +1,5 @@
+id,numeric_id,available,last_checked
+home::admin,1,1,NULL
+local::/home/ccledu/nextclouddata/,2,1,NULL
+home::physics.mudassir,3,1,NULL
+

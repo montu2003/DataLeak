@@ -1,0 +1,298 @@
+TABLE_SCHEMA,TABLE_NAME,CONSTRAINT_TYPE,CONSTRAINT_NAME,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG
+ccledu_next480,oc_external_options,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_options,UNIQUE,option_mount_key,ccledu_next480,def
+ccledu_next480,oc_addressbooks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_addressbooks,UNIQUE,addressbook_index,ccledu_next480,def
+ccledu_next480,oc_circles_member,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_applicable,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_applicable,UNIQUE,applicable_type_value_mount,ccledu_next480,def
+ccledu_next480,oc_ratelimit_entries,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_systemtag_group,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_notifications_settings,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_notifications_settings,UNIQUE,notset_user,ccledu_next480,def
+ccledu_next480,oc_group_user,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_systemtag_object_mapping,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_mounts,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_mountpoint,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_taskprocessing_tasks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_remote,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_remote,UNIQUE,UNIQ_F94EF834230B1DE,ccledu_next480,def
+ccledu_next480,oc_ex_occ_commands,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_occ_commands,UNIQUE,ex_occ_commands__idx,ccledu_next480,def
+ccledu_next480,oc_ex_occ_commands,CHECK,arguments,ccledu_next480,def
+ccledu_next480,oc_ex_occ_commands,CHECK,options,ccledu_next480,def
+ccledu_next480,oc_ex_occ_commands,CHECK,usages,ccledu_next480,def
+ccledu_next480,oc_ex_apps_daemons,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_apps_daemons,UNIQUE,ex_apps_daemons__name,ccledu_next480,def
+ccledu_next480,oc_ex_apps_daemons,CHECK,deploy_config,ccledu_next480,def
+ccledu_next480,oc_users,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_states,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_states,UNIQUE,ui_state__idx,ccledu_next480,def
+ccledu_next480,oc_ex_ui_states,CHECK,value,ccledu_next480,def
+ccledu_next480,oc_ex_event_handlers,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_event_handlers,UNIQUE,ex_event_handlers__idx,ccledu_next480,def
+ccledu_next480,oc_ex_event_handlers,CHECK,event_subtypes,ccledu_next480,def
+ccledu_next480,oc_ex_speech_to_text,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_speech_to_text,UNIQUE,speech_to_text__idx,ccledu_next480,def
+ccledu_next480,oc_twofactor_providers,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_top_menu,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_top_menu,UNIQUE,ui_top_menu__idx,ccledu_next480,def
+ccledu_next480,oc_ex_task_processing,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_task_processing,UNIQUE,task_processing_idx,ccledu_next480,def
+ccledu_next480,oc_ex_text_processing_q,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_webhook_listeners,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendarchanges,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendarsubscriptions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendarsubscriptions,UNIQUE,calsub_index,ccledu_next480,def
+ccledu_next480,oc_dav_shares,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_dav_shares,UNIQUE,dav_shares_index,ccledu_next480,def
+ccledu_next480,oc_jobs,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_accounts,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_notifications_pushhash,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_notifications_pushhash,UNIQUE,oc_npushhash_uid,ccledu_next480,def
+ccledu_next480,oc_dav_absence,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_dav_absence,UNIQUE,dav_absence_uid_idx,ccledu_next480,def
+ccledu_next480,oc_migrations,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_invitations,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_flow_operations,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_mounts,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_group_admin,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendars,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendars,UNIQUE,calendars_index,ccledu_next480,def
+ccledu_next480,oc_vcategory_to_object,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_trash,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_cards_properties,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_settings_forms,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_settings_forms,UNIQUE,ex_settings_forms__idx,ccledu_next480,def
+ccledu_next480,oc_ex_settings_forms,CHECK,scheme,ccledu_next480,def
+ccledu_next480,oc_share_external,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_share_external,UNIQUE,sh_external_mp,ccledu_next480,def
+ccledu_next480,oc_shares_limits,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_config,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_external_config,UNIQUE,config_mount_key,ccledu_next480,def
+ccledu_next480,oc_photos_albums,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_directlink,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_rooms,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_collres_collections,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendarobjects,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendarobjects,UNIQUE,calobjects_index,ccledu_next480,def
+ccledu_next480,oc_calendar_resources,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_direct_edit,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_recent_contact,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_whats_new,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_whats_new,UNIQUE,version,ccledu_next480,def
+ccledu_next480,oc_ex_ui_files_actions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_files_actions,UNIQUE,ex_ui_files_actions__idx,ccledu_next480,def
+ccledu_next480,oc_photos_albums_files,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_photos_albums_files,UNIQUE,paf_album_file,ccledu_next480,def
+ccledu_next480,oc_notifications,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_share_lock,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_share_lock,UNIQUE,UNIQ_337F52F8126F525E70EE2FF6,ccledu_next480,def
+ccledu_next480,oc_webauthn,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_comments,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_appt_bookings,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_appt_bookings,UNIQUE,cal_appt_bk_token_uniq_idx,ccledu_next480,def
+ccledu_next480,oc_photos_albums_collabs,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_photos_albums_collabs,UNIQUE,album_collabs_uniq_collab,ccledu_next480,def
+ccledu_next480,oc_filecache_extended,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_text_steps,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_apps,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_apps,UNIQUE,ex_apps__appid,ccledu_next480,def
+ccledu_next480,oc_ex_apps,UNIQUE,ex_apps_c_port__idx,ccledu_next480,def
+ccledu_next480,oc_ex_apps,CHECK,status,ccledu_next480,def
+ccledu_next480,oc_cards,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_scripts,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_scripts,UNIQUE,ui_script__idx,ccledu_next480,def
+ccledu_next480,oc_schedulingobjects,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_authorized_groups,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_direct,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_direct,UNIQUE,rd_direct_token_idx,ccledu_next480,def
+ccledu_next480,oc_appconfig,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_speech_to_text_q,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_assets,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_assets,UNIQUE,rd_assets_token_idx,ccledu_next480,def
+ccledu_next480,oc_richdocuments_assets,UNIQUE,rd_assets_timestamp_idx,ccledu_next480,def
+ccledu_next480,oc_bruteforce_attempts,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_trusted_servers,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_trusted_servers,UNIQUE,url_hash,ccledu_next480,def
+ccledu_next480,oc_circles_mount,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_styles,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_ui_styles,UNIQUE,ui_style__idx,ccledu_next480,def
+ccledu_next480,oc_properties,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_activity_mq,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_comments_read_markers,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_storages,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_storages,UNIQUE,storages_id_index,ccledu_next480,def
+ccledu_next480,oc_textprocessing_tasks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_accounts_data,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_filecache,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_filecache,UNIQUE,fs_storage_path_hash,ccledu_next480,def
+ccledu_next480,oc_mimetypes,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_mimetypes,UNIQUE,mimetype_id_index,ccledu_next480,def
+ccledu_next480,oc_open_local_editor,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_open_local_editor,UNIQUE,openlocal_user_path_token,ccledu_next480,def
+ccledu_next480,oc_storages_credentials,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_storages_credentials,UNIQUE,stocred_ui,ccledu_next480,def
+ccledu_next480,oc_activity,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_filekey,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_filekey,UNIQUE,file_id_index,ccledu_next480,def
+ccledu_next480,oc_circles_membership,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_versions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_versions,UNIQUE,files_versions_uniq_index,ccledu_next480,def
+ccledu_next480,oc_files_versions,CHECK,metadata,ccledu_next480,def
+ccledu_next480,oc_calendarobjects_props,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_authtoken,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_authtoken,UNIQUE,authtoken_token_index,ccledu_next480,def
+ccledu_next480,oc_richdocuments_wopi,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_wopi,UNIQUE,rd_wopi_token_idx,ccledu_next480,def
+ccledu_next480,oc_federated_reshares,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_preferences,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_metadata,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_metadata,UNIQUE,files_meta_fileid,ccledu_next480,def
+ccledu_next480,oc_oauth2_access_tokens,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_oauth2_access_tokens,UNIQUE,oauth2_access_hash_idx,ccledu_next480,def
+ccledu_next480,oc_profile_config,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_profile_config,UNIQUE,profile_config_user_id_idx,ccledu_next480,def
+ccledu_next480,oc_file_locks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_file_locks,UNIQUE,lock_key_index,ccledu_next480,def
+ccledu_next480,oc_addressbookchanges,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_text_documents,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_user_transfer_owner,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_text_processing,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_text_processing,UNIQUE,text_processing__idx,ccledu_next480,def
+ccledu_next480,oc_circles_circle,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_circle,UNIQUE,UNIQ_8195F548E3C68343,ccledu_next480,def
+ccledu_next480,oc_text_sessions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_permissions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_permissions,UNIQUE,share_id_index,ccledu_next480,def
+ccledu_next480,oc_circles_event,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_known_users,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_login_flow_v2,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_login_flow_v2,UNIQUE,poll_token,ccledu_next480,def
+ccledu_next480,oc_login_flow_v2,UNIQUE,login_token,ccledu_next480,def
+ccledu_next480,oc_appconfig_ex,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_appconfig_ex,UNIQUE,appconfig_ex__idx,ccledu_next480,def
+ccledu_next480,oc_ex_translation_q,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_systemtag,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_systemtag,UNIQUE,tag_ident,ccledu_next480,def
+ccledu_next480,oc_oauth2_clients,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_oauth2_clients,UNIQUE,oauth2_client_id_idx,ccledu_next480,def
+ccledu_next480,oc_calendar_resources_md,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_flow_checks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_flow_checks,UNIQUE,flow_unique_hash,ccledu_next480,def
+ccledu_next480,oc_collres_accesscache,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_collres_resources,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_twofactor_backupcodes,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_instance,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_onlyoffice_instance,UNIQUE,onlyoffice_remote_index,ccledu_next480,def
+ccledu_next480,oc_vcategory,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_share,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_share,CHECK,attributes,ccledu_next480,def
+ccledu_next480,oc_ex_apps_routes,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_template,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_richdocuments_template,UNIQUE,rd_t_user_file,ccledu_next480,def
+ccledu_next480,oc_files_reminders,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_reminders,UNIQUE,reminders_uniq_idx,ccledu_next480,def
+ccledu_next480,oc_text2image_tasks,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_flow_operations_scope,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_flow_operations_scope,UNIQUE,flow_unique_scope,ccledu_next480,def
+ccledu_next480,oc_preferences_ex,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_preferences_ex,UNIQUE,preferences_ex__idx,ccledu_next480,def
+ccledu_next480,oc_dav_cal_proxy,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_dav_cal_proxy,UNIQUE,dav_cal_proxy_uidx,ccledu_next480,def
+ccledu_next480,oc_calendar_reminders,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_token,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_circles_token,UNIQUE,sicisimit,ccledu_next480,def
+ccledu_next480,oc_user_status,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_user_status,UNIQUE,user_status_uid_ix,ccledu_next480,def
+ccledu_next480,oc_groups,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_appt_configs,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_calendar_appt_configs,UNIQUE,cal_appt_token_uniq_idx,ccledu_next480,def
+ccledu_next480,oc_calendar_rooms_md,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_files_metadata_index,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_translation,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_ex_translation,UNIQUE,ex_translation__idx,ccledu_next480,def
+ccledu_next480,oc_ex_translation,CHECK,from_languages,ccledu_next480,def
+ccledu_next480,oc_ex_translation,CHECK,to_languages,ccledu_next480,def
+ccledu_next480,oc_privacy_admins,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_reactions,PRIMARY KEY,PRIMARY,ccledu_next480,def
+ccledu_next480,oc_reactions,UNIQUE,comment_reaction_unique,ccledu_next480,def
+ccledu_lumahsi,contact,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,about,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,faculty,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,corevalues,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,administration,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,news_,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,gallery,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,login,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,login,UNIQUE,username,ccledu_lumahsi,def
+ccledu_lumahsi,visits,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,diploma_courses,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,slider,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,admissionform,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,undergraduate_courses,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,notifications_,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,youtubegallery,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,affiliation,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,facilities,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,messages,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,downloads,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,scholarships,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_lumahsi,videos,PRIMARY KEY,PRIMARY,ccledu_lumahsi,def
+ccledu_ccl_new_db,bog,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,about,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,faculty,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,jobs,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,result,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,houses,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,gallery,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,admission,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,ex,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,tenders,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,login,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,login,UNIQUE,username,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,teachers,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,teachers,UNIQUE,username,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,pride,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,faqs,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,slider,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,issbcorner,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,finalresult,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,news,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,facilities,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,messages,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,login_info,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,larkanians,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,appointments,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,lectures,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,uploads,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,uploads,UNIQUE,filename,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,shuhadas,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,written1,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_ccl_new_db,videos,PRIMARY KEY,PRIMARY,ccledu_ccl_new_db,def
+ccledu_wp186,wp3w_wpxlsdata,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_loginizer_logs,UNIQUE,ip,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_imports,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_posts,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_termmeta,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_comments,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_users,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_postmeta,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_options,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_options,UNIQUE,option_name,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_history,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_term_taxonomy,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_term_taxonomy,UNIQUE,term_id_taxonomy,ccledu_wp186,def
+ccledu_wp186,wp3w_term_relationships,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_commentmeta,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_files,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_posts,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_terms,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_links,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_wpxlsdata_shortcode,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_wpxlsdata_meta,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_hash,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_images,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_usermeta,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+ccledu_wp186,wp3w_pmxi_templates,PRIMARY KEY,PRIMARY,ccledu_wp186,def
+

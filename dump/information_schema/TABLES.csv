@@ -1,0 +1,302 @@
+ENGINE,DATA_FREE,VERSION,CHECK_TIME,TABLE_ROWS,TABLE_TYPE,CHECKSUM,CREATE_TIME,DATA_LENGTH,UPDATE_TIME,TEMPORARY,INDEX_LENGTH,TABLE_SCHEMA,ROW_FORMAT,TABLE_NAME,TABLE_CATALOG,TABLE_COMMENT,CREATE_OPTIONS,MAX_DATA_LENGTH,TABLE_COLLATION,MAX_INDEX_LENGTH,AUTO_INCREMENT,AVG_ROW_LENGTH
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:27,8192,2025-05-13 12:53:27,Y,8192,information_schema,Page,ROUTINES,def,<blank>,max_rows=621353546002073 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:28,8192,2025-05-13 12:53:28,Y,8192,information_schema,Page,VIEWS,def,<blank>,max_rows=5464082960222023 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:29,8192,2025-05-13 12:53:29,Y,8192,information_schema,Page,ALL_PLUGINS,def,<blank>,max_rows=10340103180330466 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:30,8192,2025-05-13 12:53:30,Y,8192,information_schema,Page,PARTITIONS,def,<blank>,max_rows=6148914691236517 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:31,8192,2025-05-13 12:53:31,Y,8192,information_schema,Page,OPTIMIZER_TRACE,def,<blank>,max_rows=576460752303423487 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:32,8192,2025-05-13 12:53:32,Y,8192,information_schema,Page,PLUGINS,def,<blank>,max_rows=10340103180330466 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:33,8192,2025-05-13 12:53:33,Y,8192,information_schema,Page,PARTITIONS,def,<blank>,max_rows=6148914691236517 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:34,8192,2025-05-13 12:53:34,Y,8192,information_schema,Page,CHECK_CONSTRAINTS,def,<blank>,max_rows=8571907097448676 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:35,8192,2025-05-13 12:53:35,Y,8192,information_schema,Page,ROUTINES,def,<blank>,max_rows=621353546002073 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:36,8192,2025-05-13 12:53:36,Y,8192,information_schema,Page,CHECK_CONSTRAINTS,def,<blank>,max_rows=8571907097448676 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:37,8192,2025-05-13 12:53:37,Y,8192,information_schema,Page,CHECK_CONSTRAINTS,def,<blank>,max_rows=8571907097448676 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:38,8192,2025-05-13 12:53:38,Y,8192,information_schema,Page,PARTITIONS,def,<blank>,max_rows=6148914691236517 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+Aria,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:53:39,8192,2025-05-13 12:53:39,Y,8192,information_schema,Page,SYSTEM_VARIABLES,def,<blank>,max_rows=578050390878338 transactional=0,4503599627288576,utf8mb3_general_ci,137438945280,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:53:52,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_richdocuments_direct,def,<blank>,<blank>,0,utf8mb4_bin,0,8,0
+InnoDB,0,10,NULL,13,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,facilities,def,<blank>,<blank>,0,utf8mb4_general_ci,0,14,1260
+InnoDB,0,10,NULL,335,BASE TABLE,NULL,2024-11-01 06:27:28,65536,NULL,N,65536,ccledu_next480,Dynamic,oc_file_locks,def,<blank>,<blank>,0,utf8mb4_bin,0,5243,195
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_notifications_settings,def,<blank>,<blank>,0,utf8mb4_bin,0,3,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_text_processing,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2025-04-25 08:36:59,16384,NULL,N,0,ccledu_wp186,Dynamic,wp3w_wpxlsdata,def,<blank>,<blank>,0,utf8mb3_general_ci,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_user_transfer_owner,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,9,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,about,def,<blank>,<blank>,0,latin1_swedish_ci,0,10,1820
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_appconfig_ex,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,16384,ccledu_lumahsi,Dynamic,login,def,<blank>,<blank>,0,latin1_swedish_ci,0,4,16384
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_vcategory,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,335,BASE TABLE,NULL,2024-11-01 06:27:28,65536,NULL,N,65536,ccledu_next480,Dynamic,oc_file_locks,def,<blank>,<blank>,0,utf8mb4_bin,0,5243,195
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,slider,def,<blank>,<blank>,0,utf8mb4_general_ci,0,5,5461
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_calendarsubscriptions,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_apps_daemons,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_styles,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,news,def,<blank>,<blank>,0,latin1_swedish_ci,0,131,5461
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-04 08:00:50,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_onlyoffice_filekey,def,<blank>,<blank>,0,utf8mb4_bin,0,3,8192
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,messages,def,<blank>,<blank>,0,utf8mb4_general_ci,0,3,8192
+InnoDB,0,10,NULL,29,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_mimetypes,def,<blank>,<blank>,0,utf8mb4_bin,0,37,564
+InnoDB,0,10,NULL,26,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,slider,def,<blank>,<blank>,0,latin1_swedish_ci,0,225,630
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,114688,ccledu_next480,Dynamic,oc_share,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,videos,def,<blank>,<blank>,0,utf8mb4_general_ci,0,10,4096
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_apps_daemons,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,gallery,def,<blank>,<blank>,0,utf8mb4_general_ci,0,6,4096
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_textprocessing_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,undergraduate_courses,def,<blank>,<blank>,0,utf8mb4_general_ci,0,7,5461
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,news,def,<blank>,<blank>,0,latin1_swedish_ci,0,131,5461
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_scripts,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,news_,def,<blank>,<blank>,0,utf8mb4_general_ci,0,8,16384
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_circles_token,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,81920,ccledu_next480,Dynamic,oc_comments,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,26,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,issbcorner,def,<blank>,<blank>,0,latin1_swedish_ci,0,27,630
+InnoDB,0,10,NULL,29,BASE TABLE,NULL,2024-11-01 06:27:28,49152,NULL,N,16384,ccledu_next480,Dynamic,oc_files_metadata,def,<blank>,<blank>,0,utf8mb4_bin,0,31,1694
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_comments_read_markers,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-02 06:27:46,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_external_options,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_textprocessing_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_flow_operations_scope,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,83,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,pride,def,<blank>,<blank>,0,latin1_swedish_ci,0,85,197
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,16384,ccledu_lumahsi,Dynamic,login,def,<blank>,<blank>,0,latin1_swedish_ci,0,4,16384
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_photos_albums,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_text2image_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:53:52,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_richdocuments_assets,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,admissionform,def,<blank>,<blank>,0,latin1_swedish_ci,0,3,16384
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_vcategory_to_object,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_notifications_settings,def,<blank>,<blank>,0,utf8mb4_bin,0,3,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_apps_daemons,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_collres_resources,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_known_users,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_preferences_ex,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_photos_albums,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_systemtag,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,lectures,def,<blank>,<blank>,0,latin1_swedish_ci,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_systemtag_group,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,65536,ccledu_next480,Dynamic,oc_notifications,def,<blank>,<blank>,0,utf8mb4_bin,0,10,8192
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,admissionform,def,<blank>,<blank>,0,latin1_swedish_ci,0,3,16384
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_event_handlers,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_dav_cal_proxy,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_ratelimit_entries,def,<blank>,<blank>,0,utf8mb4_bin,0,9,8192
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_authorized_groups,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,news,def,<blank>,<blank>,0,latin1_swedish_ci,0,131,5461
+InnoDB,0,10,NULL,26,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,slider,def,<blank>,<blank>,0,latin1_swedish_ci,0,225,630
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_vcategory_to_object,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,6,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,about,def,<blank>,<blank>,0,utf8mb4_general_ci,0,18,2730
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_calendarobjects,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,26,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,issbcorner,def,<blank>,<blank>,0,latin1_swedish_ci,0,27,630
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_task_processing,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_group_admin,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_cards,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_calendar_resources,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,59,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,16384,ccledu_ccl_new_db,Dynamic,teachers,def,<blank>,<blank>,0,latin1_swedish_ci,0,61,277
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_shares_limits,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,59,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,16384,ccledu_ccl_new_db,Dynamic,teachers,def,<blank>,<blank>,0,latin1_swedish_ci,0,61,277
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_calendar_rooms,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,98304,ccledu_next480,Dynamic,oc_mounts,def,<blank>,<blank>,0,utf8mb4_bin,0,4,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,corevalues,def,<blank>,<blank>,0,utf8mb4_general_ci,0,4,5461
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_group_user,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_share_external,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_flow_operations,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,6,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,65536,ccledu_next480,Dynamic,oc_cards_properties,def,<blank>,<blank>,0,utf8mb4_bin,0,22,2730
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_cards,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_calendar_rooms_md,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_calendar_reminders,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,147,BASE TABLE,NULL,2024-11-01 06:27:28,65536,NULL,N,65536,ccledu_next480,Dynamic,oc_activity,def,<blank>,<blank>,0,utf8mb4_bin,0,151,445
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_calendar_invitations,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_files_trash,def,<blank>,<blank>,0,utf8mb4_bin,0,5,4096
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,admissionform,def,<blank>,<blank>,0,latin1_swedish_ci,0,3,16384
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_calendars,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,tenders,def,<blank>,<blank>,0,latin1_swedish_ci,0,52,8192
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_dav_cal_proxy,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,12,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,houses,def,<blank>,<blank>,0,latin1_swedish_ci,0,13,1365
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_ratelimit_entries,def,<blank>,<blank>,0,utf8mb4_bin,0,9,8192
+InnoDB,0,10,NULL,3083,BASE TABLE,NULL,2024-09-10 23:53:47,540672,NULL,N,0,ccledu_ccl_new_db,Dynamic,gallery,def,<blank>,<blank>,0,latin1_swedish_ci,0,3774,175
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,81920,ccledu_next480,Dynamic,oc_user_status,def,<blank>,<blank>,0,utf8mb4_bin,0,3,8192
+InnoDB,0,10,NULL,29,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_mimetypes,def,<blank>,<blank>,0,utf8mb4_bin,0,37,564
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_settings_forms,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_translation,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_circles_share_lock,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_taskprocessing_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_preferences_ex,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_occ_commands,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_states,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_storages_credentials,def,<blank>,<blank>,0,utf8mb4_bin,0,3,16384
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_files_trash,def,<blank>,<blank>,0,utf8mb4_bin,0,5,4096
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_calendars,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_dav_absence,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_webhook_listeners,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_collres_collections,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2025-04-25 08:36:59,16384,NULL,N,0,ccledu_wp186,Dynamic,wp3w_wpxlsdata_meta,def,<blank>,<blank>,0,latin1_swedish_ci,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_files_reminders,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_whats_new,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,videos,def,<blank>,<blank>,0,latin1_swedish_ci,0,3,8192
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_vcategory_to_object,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_calendarsubscriptions,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_files_reminders,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_taskprocessing_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_circles_event,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,26,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,issbcorner,def,<blank>,<blank>,0,latin1_swedish_ci,0,27,630
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_textprocessing_tasks,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,videos,def,<blank>,<blank>,0,utf8mb4_general_ci,0,10,4096
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_photos_albums,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_user_transfer_owner,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_addressbooks,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_circles_remote,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_group_user,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,notifications_,def,<blank>,<blank>,0,utf8mb4_general_ci,0,4,5461
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,65536,ccledu_next480,Dynamic,oc_notifications,def,<blank>,<blank>,0,utf8mb4_bin,0,10,8192
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,16384,ccledu_ccl_new_db,Dynamic,login,def,<blank>,<blank>,0,latin1_swedish_ci,0,10,8192
+InnoDB,0,10,NULL,6,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_text_documents,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,2730
+InnoDB,0,10,NULL,183,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_appconfig,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,89
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2025-04-25 08:36:59,16384,NULL,N,0,ccledu_wp186,Dynamic,wp3w_wpxlsdata_meta,def,<blank>,<blank>,0,latin1_swedish_ci,0,1,0
+InnoDB,4194304,10,NULL,1168,BASE TABLE,NULL,2024-11-01 06:27:28,294912,NULL,N,868352,ccledu_next480,Dynamic,oc_filecache,def,<blank>,<blank>,0,utf8mb4_bin,0,1351,252
+InnoDB,0,10,NULL,83,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,pride,def,<blank>,<blank>,0,latin1_swedish_ci,0,85,197
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_dav_cal_proxy,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:53:52,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_richdocuments_direct,def,<blank>,<blank>,0,utf8mb4_bin,0,8,0
+InnoDB,0,10,NULL,1,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_storages_credentials,def,<blank>,<blank>,0,utf8mb4_bin,0,3,16384
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_storages,def,<blank>,<blank>,0,utf8mb4_bin,0,4,8192
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,16384,ccledu_ccl_new_db,Dynamic,uploads,def,<blank>,<blank>,0,latin1_swedish_ci,0,16,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_users,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,11,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_filecache_extended,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,1489
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,videos,def,<blank>,<blank>,0,utf8mb4_general_ci,0,10,4096
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_addressbookchanges,def,<blank>,<blank>,0,utf8mb4_bin,0,5,4096
+InnoDB,0,10,NULL,40,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_preferences,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,409
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,lectures,def,<blank>,<blank>,0,latin1_swedish_ci,0,1,0
+InnoDB,0,10,NULL,12,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,houses,def,<blank>,<blank>,0,latin1_swedish_ci,0,13,1365
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,98304,ccledu_next480,Dynamic,oc_recent_contact,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_flow_operations_scope,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_styles,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,9,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,about,def,<blank>,<blank>,0,latin1_swedish_ci,0,10,1820
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_twofactor_backupcodes,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_webauthn,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,112,BASE TABLE,NULL,2024-11-01 06:27:28,49152,NULL,N,65536,ccledu_next480,Dynamic,oc_jobs,def,<blank>,<blank>,0,utf8mb4_bin,0,195,438
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_notifications_settings,def,<blank>,<blank>,0,utf8mb4_bin,0,3,0
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,114688,ccledu_next480,Dynamic,oc_share,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_scripts,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-02 06:27:46,16384,NULL,N,0,ccledu_next480,Dynamic,oc_external_mounts,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_text_sessions,def,<blank>,<blank>,0,utf8mb4_bin,0,100,5461
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_calendar_resources,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,affiliation,def,<blank>,<blank>,0,utf8mb4_general_ci,0,21,4096
+InnoDB,0,11,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_ex_apps,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_collres_accesscache,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_preferences_ex,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_circles_mount,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,81920,ccledu_next480,Dynamic,oc_comments,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,youtubegallery,def,<blank>,<blank>,0,utf8mb4_general_ci,0,11,4096
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_collres_resources,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_ex_ui_top_menu,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,29,BASE TABLE,NULL,2024-11-01 06:27:28,49152,NULL,N,16384,ccledu_next480,Dynamic,oc_files_metadata,def,<blank>,<blank>,0,utf8mb4_bin,0,31,1694
+InnoDB,0,10,NULL,4,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,youtubegallery,def,<blank>,<blank>,0,utf8mb4_general_ci,0,11,4096
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,98304,ccledu_next480,Dynamic,oc_recent_contact,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_circles_mount,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,0,ccledu_next480,Dynamic,oc_accounts,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,81920,ccledu_next480,Dynamic,oc_user_status,def,<blank>,<blank>,0,utf8mb4_bin,0,3,8192
+InnoDB,0,10,NULL,11,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,32768,ccledu_next480,Dynamic,oc_filecache_extended,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,1489
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_comments_read_markers,def,<blank>,<blank>,0,utf8mb4_bin,0,NULL,0
+InnoDB,0,10,NULL,83,BASE TABLE,NULL,2024-09-10 23:53:47,16384,NULL,N,0,ccledu_ccl_new_db,Dynamic,faculty,def,<blank>,<blank>,0,latin1_swedish_ci,0,128,197
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,slider,def,<blank>,<blank>,0,utf8mb4_general_ci,0,5,5461
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_text_sessions,def,<blank>,<blank>,0,utf8mb4_bin,0,100,5461
+InnoDB,0,10,NULL,3,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_text_sessions,def,<blank>,<blank>,0,utf8mb4_bin,0,100,5461
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-02 06:57:32,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_calendar_appt_bookings,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_addressbooks,def,<blank>,<blank>,0,utf8mb4_bin,0,2,0
+InnoDB,0,10,NULL,0,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,49152,ccledu_next480,Dynamic,oc_reactions,def,<blank>,<blank>,0,utf8mb4_bin,0,1,0
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,16384,ccledu_next480,Dynamic,oc_storages,def,<blank>,<blank>,0,utf8mb4_bin,0,4,8192
+InnoDB,0,10,NULL,2,BASE TABLE,NULL,2025-02-08 08:44:35,16384,NULL,N,0,ccledu_lumahsi,Dynamic,messages,def,<blank>,<blank>,0,utf8mb4_general_ci,0,3,8192
+InnoDB,0,10,NULL,6,BASE TABLE,NULL,2024-11-01 06:27:28,16384,NULL,N,65536,ccledu_next480,Dynamic,oc_cards_properties,def,<blank>,<blank>,0,utf8mb4_bin,0,22,2730
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:53,0,NULL,Y,0,information_schema,Fixed,INNODB_FT_INDEX_CACHE,def,<blank>,max_rows=15887,16743844,utf8mb3_general_ci,0,NULL,1054
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:54,0,NULL,Y,0,information_schema,Fixed,KEY_COLUMN_USAGE,def,<blank>,max_rows=3615,16766370,utf8mb3_general_ci,0,NULL,4638
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:55,0,NULL,Y,0,information_schema,Fixed,INNODB_CMP_RESET,def,<blank>,max_rows=524288,13106400,utf8mb3_general_ci,0,NULL,25
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:56,0,NULL,Y,0,information_schema,Fixed,KEY_CACHES,def,<blank>,max_rows=25266,16674900,utf8mb3_general_ci,0,NULL,660
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:57,0,NULL,Y,0,information_schema,Fixed,SCHEMATA,def,<blank>,max_rows=2563,16759457,utf8mb3_general_ci,0,NULL,6539
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:58,0,NULL,Y,0,information_schema,Fixed,INNODB_CMPMEM,def,<blank>,max_rows=524288,15203424,utf8mb3_general_ci,0,NULL,29
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:56:59,0,NULL,Y,0,information_schema,Fixed,INNODB_FT_INDEX_TABLE,def,<blank>,max_rows=15887,16743844,utf8mb3_general_ci,0,NULL,1054
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:00,0,NULL,Y,0,information_schema,Fixed,REFERENTIAL_CONSTRAINTS,def,<blank>,max_rows=3483,16770645,utf8mb3_general_ci,0,NULL,4815
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:01,0,NULL,Y,0,information_schema,Fixed,INNODB_TRX,def,<blank>,max_rows=3785,16767550,utf8mb3_general_ci,0,NULL,4430
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:02,0,NULL,Y,0,information_schema,Fixed,INNODB_LOCKS,def,<blank>,max_rows=541,16767754,utf8mb3_general_ci,0,NULL,30994
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:03,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_TABLESPACES,def,<blank>,max_rows=4650,16764294,utf8mb3_general_ci,0,NULL,3606
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:04,0,NULL,Y,0,information_schema,Fixed,REFERENTIAL_CONSTRAINTS,def,<blank>,max_rows=3483,16770645,utf8mb3_general_ci,0,NULL,4815
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:05,0,NULL,Y,0,information_schema,Fixed,user_variables,def,<blank>,max_rows=2529,16769799,utf8mb3_general_ci,0,NULL,6631
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:06,0,NULL,Y,0,information_schema,Fixed,user_variables,def,<blank>,max_rows=2529,16769799,utf8mb3_general_ci,0,NULL,6631
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:07,0,NULL,Y,0,information_schema,Fixed,SCHEMA_PRIVILEGES,def,<blank>,max_rows=5418,16752456,utf8mb3_general_ci,0,NULL,3092
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:08,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_QUEUES,def,<blank>,max_rows=524288,15727680,utf8mb3_general_ci,0,NULL,30
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:09,0,NULL,Y,0,information_schema,Fixed,TABLE_STATISTICS,def,<blank>,max_rows=14169,16733589,utf8mb3_general_ci,0,NULL,1181
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:10,0,NULL,Y,0,information_schema,Fixed,PROFILING,def,<blank>,max_rows=53773,16614621,utf8mb3_general_ci,0,NULL,309
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:12,0,NULL,Y,0,information_schema,Fixed,INNODB_LOCKS,def,<blank>,max_rows=541,16767754,utf8mb3_general_ci,0,NULL,30994
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:13,0,NULL,Y,0,information_schema,Fixed,GLOBAL_VARIABLES,def,<blank>,max_rows=1343,16766012,utf8mb3_general_ci,0,NULL,12484
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:14,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_WAITS,def,<blank>,max_rows=262144,15203424,utf8mb3_general_ci,0,NULL,58
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:15,0,NULL,Y,0,information_schema,Fixed,GLOBAL_STATUS,def,<blank>,max_rows=1343,16766012,utf8mb3_general_ci,0,NULL,12484
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:16,0,NULL,Y,0,information_schema,Fixed,GLOBAL_VARIABLES,def,<blank>,max_rows=1343,16766012,utf8mb3_general_ci,0,NULL,12484
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:17,0,NULL,Y,0,information_schema,Fixed,SPATIAL_REF_SYS,def,<blank>,max_rows=2179,16758689,utf8mb3_general_ci,0,NULL,7691
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:18,0,NULL,Y,0,information_schema,Fixed,SCHEMA_PRIVILEGES,def,<blank>,max_rows=5418,16752456,utf8mb3_general_ci,0,NULL,3092
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:19,0,NULL,Y,0,information_schema,Fixed,KEY_CACHES,def,<blank>,max_rows=25266,16674900,utf8mb3_general_ci,0,NULL,660
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:20,0,NULL,Y,0,information_schema,Fixed,COLLATION_CHARACTER_SET_APPLICABILITY,def,<blank>,max_rows=83886,16356600,utf8mb3_general_ci,0,NULL,195
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:21,0,NULL,Y,0,information_schema,Fixed,TABLE_CONSTRAINTS,def,<blank>,max_rows=6700,16721712,utf8mb3_general_ci,0,NULL,2504
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:22,0,NULL,Y,0,information_schema,Fixed,INNODB_CMP,def,<blank>,max_rows=524288,13106400,utf8mb3_general_ci,0,NULL,25
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:23,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_TABLESPACES,def,<blank>,max_rows=4650,16764294,utf8mb3_general_ci,0,NULL,3606
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:24,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_COLUMNS,def,<blank>,max_rows=74898,16626246,utf8mb3_general_ci,0,NULL,222
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:25,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_FOREIGN,def,<blank>,max_rows=9576,16698312,utf8mb3_general_ci,0,NULL,1752
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:26,0,NULL,Y,0,information_schema,Fixed,INNODB_CMPMEM_RESET,def,<blank>,max_rows=524288,15203424,utf8mb3_general_ci,0,NULL,29
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:27,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_FOREIGN_COLS,def,<blank>,max_rows=17189,16706736,utf8mb3_general_ci,0,NULL,972
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:28,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_TABLESTATS,def,<blank>,max_rows=65536,16383000,utf8mb3_general_ci,0,NULL,250
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:29,0,NULL,Y,0,information_schema,Fixed,COLUMN_PRIVILEGES,def,<blank>,max_rows=4821,16763960,utf8mb3_general_ci,0,NULL,3478
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:29,0,NULL,Y,0,information_schema,Fixed,INNODB_LOCK_WAITS,def,<blank>,max_rows=32768,16546830,utf8mb3_general_ci,0,NULL,505
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:31,0,NULL,Y,0,information_schema,Fixed,KEY_COLUMN_USAGE,def,<blank>,max_rows=3615,16766370,utf8mb3_general_ci,0,NULL,4638
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:32,0,NULL,Y,0,information_schema,Fixed,TABLE_PRIVILEGES,def,<blank>,max_rows=5102,16760070,utf8mb3_general_ci,0,NULL,3285
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:33,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_FIELDS,def,<blank>,max_rows=80659,16614724,utf8mb3_general_ci,0,NULL,206
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:34,0,NULL,Y,0,information_schema,Fixed,INNODB_CMP,def,<blank>,max_rows=524288,13106400,utf8mb3_general_ci,0,NULL,25
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:35,0,NULL,Y,0,information_schema,Fixed,INNODB_FT_BEING_DELETED,def,<blank>,max_rows=1048576,9436608,utf8mb3_general_ci,0,NULL,9
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:36,0,NULL,Y,0,information_schema,Fixed,KEY_COLUMN_USAGE,def,<blank>,max_rows=3615,16766370,utf8mb3_general_ci,0,NULL,4638
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:37,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_VIRTUAL,def,<blank>,max_rows=699050,11883136,utf8mb3_general_ci,0,NULL,17
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:38,0,NULL,Y,0,information_schema,Fixed,GEOMETRY_COLUMNS,def,<blank>,max_rows=3949,16759556,utf8mb3_general_ci,0,NULL,4244
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:39,0,NULL,Y,0,information_schema,Fixed,INNODB_FT_DELETED,def,<blank>,max_rows=1048576,9436608,utf8mb3_general_ci,0,NULL,9
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:40,0,NULL,Y,0,information_schema,Fixed,TABLES,def,<blank>,max_rows=1130,16761290,utf8mb3_general_ci,0,NULL,14833
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:41,0,NULL,Y,0,information_schema,Fixed,user_variables,def,<blank>,max_rows=2529,16769799,utf8mb3_general_ci,0,NULL,6631
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:42,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_TABLES,def,<blank>,max_rows=8388,16734060,utf8mb3_general_ci,0,NULL,1995
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:43,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_COLUMNS,def,<blank>,max_rows=74898,16626246,utf8mb3_general_ci,0,NULL,222
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:44,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_WAITS,def,<blank>,max_rows=262144,15203424,utf8mb3_general_ci,0,NULL,58
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:45,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_FOREIGN,def,<blank>,max_rows=9576,16698312,utf8mb3_general_ci,0,NULL,1752
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:46,0,NULL,Y,0,information_schema,Fixed,INNODB_BUFFER_PAGE,def,<blank>,max_rows=4712,16755872,utf8mb3_general_ci,0,NULL,3556
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:47,0,NULL,Y,0,information_schema,Fixed,TABLE_PRIVILEGES,def,<blank>,max_rows=5102,16760070,utf8mb3_general_ci,0,NULL,3285
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:48,0,NULL,Y,0,information_schema,Fixed,KEY_COLUMN_USAGE,def,<blank>,max_rows=3615,16766370,utf8mb3_general_ci,0,NULL,4638
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:49,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_TABLES,def,<blank>,max_rows=8388,16734060,utf8mb3_general_ci,0,NULL,1995
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:50,0,NULL,Y,0,information_schema,Fixed,ENGINES,def,<blank>,max_rows=22795,16684476,utf8mb3_general_ci,0,NULL,732
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:51,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_STATS,def,<blank>,max_rows=190650,16204230,utf8mb3_general_ci,0,NULL,85
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:52,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_WAITS,def,<blank>,max_rows=262144,15203424,utf8mb3_general_ci,0,NULL,58
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:53,0,NULL,Y,0,information_schema,Fixed,SESSION_STATUS,def,<blank>,max_rows=1343,16766012,utf8mb3_general_ci,0,NULL,12484
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:54,0,NULL,Y,0,information_schema,Fixed,KEYWORDS,def,<blank>,max_rows=83886,16356600,utf8mb3_general_ci,0,NULL,195
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:55,0,NULL,Y,0,information_schema,Fixed,COLLATION_CHARACTER_SET_APPLICABILITY,def,<blank>,max_rows=83886,16356600,utf8mb3_general_ci,0,NULL,195
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:56,0,NULL,Y,0,information_schema,Fixed,THREAD_POOL_QUEUES,def,<blank>,max_rows=524288,15727680,utf8mb3_general_ci,0,NULL,30
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:57,0,NULL,Y,0,information_schema,Fixed,INNODB_CMP_PER_INDEX,def,<blank>,max_rows=27962,16555200,utf8mb3_general_ci,0,NULL,600
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:58,0,NULL,Y,0,information_schema,Fixed,INNODB_SYS_COLUMNS,def,<blank>,max_rows=74898,16626246,utf8mb3_general_ci,0,NULL,222
+MEMORY,0,11,NULL,NULL,SYSTEM VIEW,NULL,2025-05-13 12:57:59,0,NULL,Y,0,information_schema,Fixed,INNODB_FT_INDEX_TABLE,def,<blank>,max_rows=15887,16743844,utf8mb3_general_ci,0,NULL,1054
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 09:28:16,0,2025-04-24 09:28:16,N,4096,ccledu_wp186,Dynamic,wp3w_termmeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,1,0
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2023-12-09 00:09:43,88,2023-12-09 00:09:43,N,2048,ccledu_ccl_new_db,Dynamic,shuhadas,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,288230376151710720,5,44
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-02-04 09:34:02,0,2025-02-04 09:34:02,N,1024,ccledu_ccl_new_db,Dynamic,written1,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,1125899906841600,1,0
+MyISAM,0,10,NULL,6,BASE TABLE,NULL,2023-12-09 00:09:43,432,2023-12-09 00:09:43,N,2048,ccledu_ccl_new_db,Dynamic,appointments,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,1125899906841600,13,72
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 09:28:15,0,2025-04-24 09:28:15,N,4096,ccledu_wp186,Dynamic,wp3w_commentmeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,1,0
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_imports,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,1125899906841600,1,0
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_hash,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,288230376151710720,NULL,0
+MyISAM,0,10,NULL,24,BASE TABLE,NULL,2025-04-24 09:28:16,2180,2025-04-30 08:24:44,N,10240,ccledu_wp186,Dynamic,wp3w_usermeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,25,90
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2024-01-20 06:16:23,0,2024-01-20 06:16:23,N,1024,ccledu_ccl_new_db,Dynamic,written3,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,17179868160,NULL,0
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_posts,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,288230376151710720,1,0
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_history,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,288230376151710720,1,0
+MyISAM,0,10,NULL,210,BASE TABLE,NULL,2025-03-14 12:35:30,41548,2025-03-14 12:35:44,N,1024,ccledu_ccl_new_db,Dynamic,meritlist2,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,17179868160,NULL,197
+MyISAM,576,10,NULL,0,BASE TABLE,NULL,2025-04-24 09:28:23,576,2025-05-12 06:43:21,N,8192,ccledu_wp186,Dynamic,wp3w_loginizer_logs,def,<blank>,<blank>,281474976710655,utf8mb3_general_ci,288230376151710720,NULL,0
+MyISAM,0,10,NULL,1,BASE TABLE,NULL,2025-02-08 08:44:35,20,2025-04-24 09:21:18,N,2048,ccledu_lumahsi,Dynamic,visits,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,288230376151710720,3,20
+MyISAM,116,10,NULL,97,BASE TABLE,NULL,2025-04-24 09:28:16,3215676,2025-05-01 11:04:45,N,21504,ccledu_wp186,Dynamic,wp3w_posts,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,100,33150
+MyISAM,116,10,NULL,97,BASE TABLE,NULL,2025-04-24 09:28:16,3215676,2025-05-01 11:04:45,N,21504,ccledu_wp186,Dynamic,wp3w_posts,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,100,33150
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2025-04-24 09:28:16,80,2025-04-24 09:52:47,N,4096,ccledu_wp186,Dynamic,wp3w_term_taxonomy,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,3,40
+MyISAM,0,10,NULL,24,BASE TABLE,NULL,2025-04-24 09:28:16,2180,2025-04-30 08:24:44,N,10240,ccledu_wp186,Dynamic,wp3w_usermeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,25,90
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2025-04-24 09:28:16,92,2025-04-24 09:52:47,N,13312,ccledu_wp186,Dynamic,wp3w_terms,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,18446744073709551615,3,46
+MyISAM,0,10,NULL,24,BASE TABLE,NULL,2025-04-24 09:28:16,2180,2025-04-30 08:24:44,N,10240,ccledu_wp186,Dynamic,wp3w_usermeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,25,90
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_imports,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,1125899906841600,1,0
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2025-04-24 09:28:16,80,2025-04-24 09:52:47,N,4096,ccledu_wp186,Dynamic,wp3w_term_taxonomy,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,3,40
+MyISAM,0,10,NULL,24,BASE TABLE,NULL,2025-04-24 09:28:16,2180,2025-04-30 08:24:44,N,10240,ccledu_wp186,Dynamic,wp3w_usermeta,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,25,90
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 10:16:37,0,2025-04-24 10:16:37,N,1024,ccledu_wp186,Dynamic,wp3w_pmxi_hash,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_520_ci,288230376151710720,NULL,0
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-03-14 06:35:06,0,2025-03-14 06:35:06,N,1024,ccledu_ccl_new_db,Dynamic,result4,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,17179868160,NULL,0
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2025-04-24 09:28:16,92,2025-04-24 09:52:47,N,13312,ccledu_wp186,Dynamic,wp3w_terms,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,18446744073709551615,3,46
+MyISAM,0,10,NULL,0,BASE TABLE,NULL,2025-04-24 09:28:15,0,2025-04-24 09:28:15,N,1024,ccledu_wp186,Dynamic,wp3w_links,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,1,0
+MyISAM,0,10,NULL,10,BASE TABLE,NULL,2025-03-02 10:19:13,1648,2025-03-02 10:22:32,N,1024,ccledu_ccl_new_db,Dynamic,result3,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,17179868160,NULL,164
+MyISAM,0,10,NULL,1,BASE TABLE,NULL,2025-04-24 09:28:16,212,2025-05-07 13:03:25,N,8192,ccledu_wp186,Dynamic,wp3w_users,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,2,212
+MyISAM,0,10,NULL,1,BASE TABLE,NULL,2025-04-24 09:28:15,328,2025-04-24 09:28:15,N,7168,ccledu_wp186,Dynamic,wp3w_comments,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,2,328
+MyISAM,0,10,NULL,1,BASE TABLE,NULL,2025-04-24 09:28:16,212,2025-05-07 13:03:25,N,8192,ccledu_wp186,Dynamic,wp3w_users,def,<blank>,<blank>,281474976710655,utf8mb4_unicode_ci,288230376151710720,2,212
+MyISAM,0,10,NULL,2,BASE TABLE,NULL,2023-12-09 00:09:43,88,2023-12-09 00:09:43,N,2048,ccledu_ccl_new_db,Dynamic,shuhadas,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,288230376151710720,5,44
+MyISAM,0,10,2024-10-29 06:54:12,2,BASE TABLE,NULL,2023-12-09 00:09:43,40,2025-05-13 12:55:15,N,1024,ccledu_ccl_new_db,Dynamic,visits,def,<blank>,<blank>,281474976710655,latin1_swedish_ci,17179868160,NULL,20
+PERFORMANCE_SCHEMA,0,10,NULL,255,BASE TABLE,NULL,NULL,0,NULL,N,0,performance_schema,Dynamic,session_status,def,<blank>,<blank>,0,utf8mb3_general_ci,0,NULL,0
+PERFORMANCE_SCHEMA,0,10,NULL,0,BASE TABLE,NULL,NULL,0,NULL,N,0,performance_schema,Dynamic,session_account_connect_attrs,def,<blank>,<blank>,0,utf8mb3_bin,0,NULL,0
+PERFORMANCE_SCHEMA,0,10,NULL,255,BASE TABLE,NULL,NULL,0,NULL,N,0,performance_schema,Dynamic,global_status,def,<blank>,<blank>,0,utf8mb3_general_ci,0,NULL,0
+

@@ -1,0 +1,3 @@
+id,user_id,config
+1,physics.mudassir,"{""email"":{""visibility"":""show_users_only""},""address"":{""visibility"":""show_users_only""},""avatar"":{""visibility"":""show""},""biography"":{""visibility"":""show""},""displayname"":{""visibility"":""show""},""headline"":{""visibility"":""show""},""organisation"":{""visibility"":""show""},""role"":{""visibility"":""show""},""phone"":{""visibility"":""show_users_only""},""twitter"":{""visibility"":""show""},""website"":{""visibility"":""show""}}"
+

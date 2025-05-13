@@ -1,0 +1,14 @@
+LEVEL,CHECK_CLAUSE,TABLE_NAME,CONSTRAINT_NAME,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG
+Column,json_valid(`arguments`),oc_ex_occ_commands,arguments,ccledu_next480,def
+Column,json_valid(`options`),oc_ex_occ_commands,options,ccledu_next480,def
+Column,json_valid(`usages`),oc_ex_occ_commands,usages,ccledu_next480,def
+Column,json_valid(`deploy_config`),oc_ex_apps_daemons,deploy_config,ccledu_next480,def
+Column,json_valid(`value`),oc_ex_ui_states,value,ccledu_next480,def
+Column,json_valid(`event_subtypes`),oc_ex_event_handlers,event_subtypes,ccledu_next480,def
+Column,json_valid(`scheme`),oc_ex_settings_forms,scheme,ccledu_next480,def
+Column,json_valid(`status`),oc_ex_apps,status,ccledu_next480,def
+Column,json_valid(`metadata`),oc_files_versions,metadata,ccledu_next480,def
+Column,json_valid(`attributes`),oc_share,attributes,ccledu_next480,def
+Column,json_valid(`from_languages`),oc_ex_translation,from_languages,ccledu_next480,def
+Column,json_valid(`to_languages`),oc_ex_translation,to_languages,ccledu_next480,def
+

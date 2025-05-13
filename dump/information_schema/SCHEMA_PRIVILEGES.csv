@@ -1,0 +1,78 @@
+GRANTEE,IS_GRANTABLE,TABLE_SCHEMA,TABLE_CATALOG,PRIVILEGE_TYPE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,SELECT
+'ccledu'@'localhost',NO,ccledu\\_next480,def,INSERT
+'ccledu'@'localhost',NO,ccledu\\_next480,def,UPDATE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,DELETE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,CREATE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,DROP
+'ccledu'@'localhost',NO,ccledu\\_next480,def,REFERENCES
+'ccledu'@'localhost',NO,ccledu\\_next480,def,INDEX
+'ccledu'@'localhost',NO,ccledu\\_next480,def,ALTER
+'ccledu'@'localhost',NO,ccledu\\_next480,def,CREATE TEMPORARY TABLES
+'ccledu'@'localhost',NO,ccledu\\_next480,def,LOCK TABLES
+'ccledu'@'localhost',NO,ccledu\\_next480,def,EXECUTE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,CREATE VIEW
+'ccledu'@'localhost',NO,ccledu\\_next480,def,SHOW VIEW
+'ccledu'@'localhost',NO,ccledu\\_next480,def,CREATE ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,ALTER ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_next480,def,EVENT
+'ccledu'@'localhost',NO,ccledu\\_next480,def,TRIGGER
+'ccledu'@'localhost',NO,ccledu\\_next480,def,DELETE HISTORY
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,SELECT
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,INSERT
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,UPDATE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,DELETE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,CREATE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,DROP
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,REFERENCES
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,INDEX
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,ALTER
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,CREATE TEMPORARY TABLES
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,LOCK TABLES
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,EXECUTE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,CREATE VIEW
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,SHOW VIEW
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,CREATE ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,ALTER ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,EVENT
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,TRIGGER
+'ccledu'@'localhost',NO,ccledu\\_lumahsi,def,DELETE HISTORY
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,SELECT
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,INSERT
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,UPDATE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,DELETE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,CREATE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,DROP
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,REFERENCES
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,INDEX
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,ALTER
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,CREATE TEMPORARY TABLES
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,LOCK TABLES
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,EXECUTE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,CREATE VIEW
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,SHOW VIEW
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,CREATE ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,ALTER ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,EVENT
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,TRIGGER
+'ccledu'@'localhost',NO,ccledu\\_ccl\\_new\\_db,def,DELETE HISTORY
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,SELECT
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,INSERT
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,UPDATE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,DELETE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,CREATE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,DROP
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,REFERENCES
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,INDEX
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,ALTER
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,CREATE TEMPORARY TABLES
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,LOCK TABLES
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,EXECUTE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,CREATE VIEW
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,SHOW VIEW
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,CREATE ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,ALTER ROUTINE
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,EVENT
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,TRIGGER
+'ccledu'@'localhost',NO,ccledu\\_wp186,def,DELETE HISTORY
+
